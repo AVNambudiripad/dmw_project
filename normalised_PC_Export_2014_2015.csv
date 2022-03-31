@@ -1,0 +1,3042 @@
+pc_code,pc_description,country_code,country_name,value
+P7,Cotton Yarn,1213,Kenya,59.0
+P7,Cotton Yarn,1395,Tanzania Rep,26.0
+P7,Cotton Yarn,1417,Uganda,1.0
+P7,Cotton Yarn,2035,Benin,3.0
+P7,Cotton Yarn,2057,Cameroon,1.0
+P7,Cotton Yarn,2199,Cote D' Ivoire,106.0
+P7,Cotton Yarn,2241,Madagascar,353.0
+P7,Cotton Yarn,2257,Mauritius,1243.0
+P7,Cotton Yarn,2353,Senegal,2.0
+P7,Cotton Yarn,3041,Botswana,20.0
+P7,Cotton Yarn,3102,Djibouti,3.0
+P7,Cotton Yarn,3115,Ethiopia,38.0
+P7,Cotton Yarn,3116,Eritrea,6.0
+P7,Cotton Yarn,3243,Malawi,0.0
+P7,Cotton Yarn,3267,Mozambique,5.0
+P7,Cotton Yarn,3291,Nigeria,16.0
+P7,Cotton Yarn,3339,Reunion,0.0
+P7,Cotton Yarn,3355,Seychelles,0.0
+P7,Cotton Yarn,3461,Zambia,3.0
+P7,Cotton Yarn,4005,Algeria,289.0
+P7,Cotton Yarn,4111,Egypt A Rp,8290.0
+P7,Cotton Yarn,4265,Morocco,876.0
+P7,Cotton Yarn,4365,South Africa,105.0
+P7,Cotton Yarn,4381,Sudan,39.0
+P7,Cotton Yarn,4407,Tunisia,862.0
+P7,Cotton Yarn,5059,Canada,80.0
+P7,Cotton Yarn,5423,U S A,1066.0
+P7,Cotton Yarn,6015,Argentina,191.0
+P7,Cotton Yarn,6039,Bolivia,9.0
+P7,Cotton Yarn,6043,Brazil,1168.0
+P7,Cotton Yarn,6073,Chile,460.0
+P7,Cotton Yarn,6083,Colombia,3616.0
+P7,Cotton Yarn,6109,Ecuador,118.0
+P7,Cotton Yarn,6317,Paraguay,20.0
+P7,Cotton Yarn,6319,Peru,5321.0
+P7,Cotton Yarn,6427,Uruguay,3.0
+P7,Cotton Yarn,6433,Venezuela,408.0
+P7,Cotton Yarn,7105,Dominica,7.0
+P7,Cotton Yarn,8091,Costa Rica,4.0
+P7,Cotton Yarn,8113,El Salvador,24.0
+P7,Cotton Yarn,8165,Guatemala,1245.0
+P7,Cotton Yarn,8177,Honduras,117.0
+P7,Cotton Yarn,9093,Cuba,2.0
+P7,Cotton Yarn,9103,Dominic Rep,509.0
+P7,Cotton Yarn,9259,Mexico,180.0
+P7,Cotton Yarn,9311,Panama Republic,62.0
+P7,Cotton Yarn,9331,Puerto Rico,3.0
+P7,Cotton Yarn,9383,Suriname,1.0
+P7,Cotton Yarn,10001,Afghanistan,1.0
+P7,Cotton Yarn,10017,Australia,89.0
+P7,Cotton Yarn,10027,Bangladesh Pr,24632.0
+P7,Cotton Yarn,10056,Cambodia,183.0
+P7,Cotton Yarn,10077,China P Rp,67392.0
+P7,Cotton Yarn,10127,Fiji Is,0.0
+P7,Cotton Yarn,10179,Hong Kong,3366.0
+P7,Cotton Yarn,10187,Indonesia,1567.0
+P7,Cotton Yarn,10189,Iran,1228.0
+P7,Cotton Yarn,10205,Japan,2327.0
+P7,Cotton Yarn,10217,Korea Rp,6310.0
+P7,Cotton Yarn,10245,Malaysia,857.0
+P7,Cotton Yarn,10258,Myanmar,1689.0
+P7,Cotton Yarn,10273,Nepal,516.0
+P7,Cotton Yarn,10285,New Zealand,13.0
+P7,Cotton Yarn,10309,Pakistan Ir,4015.0
+P7,Cotton Yarn,10323,Philippines,1125.0
+P7,Cotton Yarn,10359,Singapore,24.0
+P7,Cotton Yarn,10369,Sri Lanka Dsr,3261.0
+P7,Cotton Yarn,10397,Thailand,734.0
+P7,Cotton Yarn,10437,Vietnam Soc Rep,7880.0
+P7,Cotton Yarn,11025,Baharain Is,370.0
+P7,Cotton Yarn,11191,Iraq,15.0
+P7,Cotton Yarn,11207,Jordan,374.0
+P7,Cotton Yarn,11219,Kuwait,1.0
+P7,Cotton Yarn,11225,Lebanon,106.0
+P7,Cotton Yarn,11301,Oman,23.0
+P7,Cotton Yarn,11351,Saudi Arab,39.0
+P7,Cotton Yarn,11391,Syria,104.0
+P7,Cotton Yarn,11419,U Arab Emts,560.0
+P7,Cotton Yarn,12075,Taiwan,1323.0
+P7,Cotton Yarn,12163,Guam,2.0
+P7,Cotton Yarn,12195,Israel,221.0
+P7,Cotton Yarn,12215,Korea Dp Rp,120.0
+P7,Cotton Yarn,12239,Macao,0.0
+P7,Cotton Yarn,12247,Maldives,0.0
+P7,Cotton Yarn,13019,Austria,54.0
+P7,Cotton Yarn,13033,Belgium,676.0
+P7,Cotton Yarn,13101,Denmark,196.0
+P7,Cotton Yarn,13125,Finland,4.0
+P7,Cotton Yarn,13129,France,100.0
+P7,Cotton Yarn,13147,Germany,2379.0
+P7,Cotton Yarn,13155,Greece,211.0
+P7,Cotton Yarn,13197,Italy,2497.0
+P7,Cotton Yarn,13275,Netherland,340.0
+P7,Cotton Yarn,13327,Portugal,4999.0
+P7,Cotton Yarn,13367,Spain,1285.0
+P7,Cotton Yarn,13387,Sweden,1.0
+P7,Cotton Yarn,13421,U K,183.0
+P7,Cotton Yarn,14297,Norway,7.0
+P7,Cotton Yarn,14389,Switzerland,8.0
+P7,Cotton Yarn,15040,Bosnia-Hrzgovin,9.0
+P7,Cotton Yarn,15049,Bulgaria,91.0
+P7,Cotton Yarn,15055,Belarus,5.0
+P7,Cotton Yarn,15092,Croatia,158.0
+P7,Cotton Yarn,15098,Czech Republic,474.0
+P7,Cotton Yarn,15114,Estonia,21.0
+P7,Cotton Yarn,15181,Hungary,23.0
+P7,Cotton Yarn,15212,Kazakhstan,6.0
+P7,Cotton Yarn,15224,Latvia,34.0
+P7,Cotton Yarn,15234,Lithuania,86.0
+P7,Cotton Yarn,15240,Macedonia,45.0
+P7,Cotton Yarn,15325,Poland,1398.0
+P7,Cotton Yarn,15343,Romania,14.0
+P7,Cotton Yarn,15344,Russia,110.0
+P7,Cotton Yarn,15352,Serbia,42.0
+P7,Cotton Yarn,15356,Montenegro,63.0
+P7,Cotton Yarn,15358,Slovak Rep,18.0
+P7,Cotton Yarn,15360,Slovenia,75.0
+P7,Cotton Yarn,15422,Ukraine,240.0
+P7,Cotton Yarn,16095,Cyprus,9.0
+P7,Cotton Yarn,16409,Turkey,1671.0
+P8,"Cotton Fabrics, Madeups Etc.",1213,Kenya,861.0
+P8,"Cotton Fabrics, Madeups Etc.",1395,Tanzania Rep,1117.0
+P8,"Cotton Fabrics, Madeups Etc.",1417,Uganda,431.0
+P8,"Cotton Fabrics, Madeups Etc.",2035,Benin,1768.0
+P8,"Cotton Fabrics, Madeups Etc.",2050,Burkina Faso,120.0
+P8,"Cotton Fabrics, Madeups Etc.",2057,Cameroon,175.0
+P8,"Cotton Fabrics, Madeups Etc.",2067,C Afri Rep,2.0
+P8,"Cotton Fabrics, Madeups Etc.",2069,Chad,24.0
+P8,"Cotton Fabrics, Madeups Etc.",2087,Congo P Rep,380.0
+P8,"Cotton Fabrics, Madeups Etc.",2141,Gabon,125.0
+P8,"Cotton Fabrics, Madeups Etc.",2199,Cote D' Ivoire,342.0
+P8,"Cotton Fabrics, Madeups Etc.",2241,Madagascar,436.0
+P8,"Cotton Fabrics, Madeups Etc.",2255,Mauritania,862.0
+P8,"Cotton Fabrics, Madeups Etc.",2257,Mauritius,551.0
+P8,"Cotton Fabrics, Madeups Etc.",2289,Niger,220.0
+P8,"Cotton Fabrics, Madeups Etc.",2345,Rwanda,248.0
+P8,"Cotton Fabrics, Madeups Etc.",2353,Senegal,2950.0
+P8,"Cotton Fabrics, Madeups Etc.",2399,Togo,4800.0
+P8,"Cotton Fabrics, Madeups Etc.",2459,Congo D. Rep.,603.0
+P8,"Cotton Fabrics, Madeups Etc.",3011,Angola,1281.0
+P8,"Cotton Fabrics, Madeups Etc.",3041,Botswana,14.0
+P8,"Cotton Fabrics, Madeups Etc.",3053,Burundi,68.0
+P8,"Cotton Fabrics, Madeups Etc.",3063,Cape Verde Is,1.0
+P8,"Cotton Fabrics, Madeups Etc.",3085,Comoros,166.0
+P8,"Cotton Fabrics, Madeups Etc.",3102,Djibouti,60.0
+P8,"Cotton Fabrics, Madeups Etc.",3115,Ethiopia,54.0
+P8,"Cotton Fabrics, Madeups Etc.",3116,Eritrea,7.0
+P8,"Cotton Fabrics, Madeups Etc.",3117,Equtl Guinea,2.0
+P8,"Cotton Fabrics, Madeups Etc.",3143,Gambia,928.0
+P8,"Cotton Fabrics, Madeups Etc.",3149,Ghana,809.0
+P8,"Cotton Fabrics, Madeups Etc.",3167,Guinea,204.0
+P8,"Cotton Fabrics, Madeups Etc.",3227,Lesotho,556.0
+P8,"Cotton Fabrics, Madeups Etc.",3229,Liberia,38.0
+P8,"Cotton Fabrics, Madeups Etc.",3243,Malawi,270.0
+P8,"Cotton Fabrics, Madeups Etc.",3249,Mali,420.0
+P8,"Cotton Fabrics, Madeups Etc.",3267,Mozambique,2404.0
+P8,"Cotton Fabrics, Madeups Etc.",3269,Namibia,11.0
+P8,"Cotton Fabrics, Madeups Etc.",3291,Nigeria,1407.0
+P8,"Cotton Fabrics, Madeups Etc.",3339,Reunion,36.0
+P8,"Cotton Fabrics, Madeups Etc.",3349,Sao Tome,5.0
+P8,"Cotton Fabrics, Madeups Etc.",3355,Seychelles,19.0
+P8,"Cotton Fabrics, Madeups Etc.",3357,Sierra Leone,162.0
+P8,"Cotton Fabrics, Madeups Etc.",3363,Somalia,7.0
+P8,"Cotton Fabrics, Madeups Etc.",3385,Swaziland,11.0
+P8,"Cotton Fabrics, Madeups Etc.",3461,Zambia,341.0
+P8,"Cotton Fabrics, Madeups Etc.",4005,Algeria,312.0
+P8,"Cotton Fabrics, Madeups Etc.",4111,Egypt A Rp,1567.0
+P8,"Cotton Fabrics, Madeups Etc.",4231,Libya,134.0
+P8,"Cotton Fabrics, Madeups Etc.",4265,Morocco,54.0
+P8,"Cotton Fabrics, Madeups Etc.",4365,South Africa,1662.0
+P8,"Cotton Fabrics, Madeups Etc.",4381,Sudan,1928.0
+P8,"Cotton Fabrics, Madeups Etc.",4407,Tunisia,112.0
+P8,"Cotton Fabrics, Madeups Etc.",4463,Zimbabwe,43.0
+P8,"Cotton Fabrics, Madeups Etc.",5059,Canada,4472.0
+P8,"Cotton Fabrics, Madeups Etc.",5423,U S A,89217.0
+P8,"Cotton Fabrics, Madeups Etc.",5424,Us Minor Outlying Islands,0.0
+P8,"Cotton Fabrics, Madeups Etc.",6015,Argentina,129.0
+P8,"Cotton Fabrics, Madeups Etc.",6039,Bolivia,0.0
+P8,"Cotton Fabrics, Madeups Etc.",6043,Brazil,961.0
+P8,"Cotton Fabrics, Madeups Etc.",6073,Chile,964.0
+P8,"Cotton Fabrics, Madeups Etc.",6083,Colombia,1224.0
+P8,"Cotton Fabrics, Madeups Etc.",6109,Ecuador,108.0
+P8,"Cotton Fabrics, Madeups Etc.",6317,Paraguay,38.0
+P8,"Cotton Fabrics, Madeups Etc.",6319,Peru,558.0
+P8,"Cotton Fabrics, Madeups Etc.",6427,Uruguay,55.0
+P8,"Cotton Fabrics, Madeups Etc.",6433,Venezuela,623.0
+P8,"Cotton Fabrics, Madeups Etc.",7013,Antigua,0.0
+P8,"Cotton Fabrics, Madeups Etc.",7020,Aruba,5.0
+P8,"Cotton Fabrics, Madeups Etc.",7023,Bahamas,1.0
+P8,"Cotton Fabrics, Madeups Etc.",7029,Barbados,2.0
+P8,"Cotton Fabrics, Madeups Etc.",7031,Belize,0.0
+P8,"Cotton Fabrics, Madeups Etc.",7105,Dominica,2.0
+P8,"Cotton Fabrics, Madeups Etc.",7171,Guyana,14.0
+P8,"Cotton Fabrics, Madeups Etc.",7203,Jamaica,10.0
+P8,"Cotton Fabrics, Madeups Etc.",7373,St Kitt N A,2.0
+P8,"Cotton Fabrics, Madeups Etc.",7375,St Lucia,1.0
+P8,"Cotton Fabrics, Madeups Etc.",7379,St Vincent,0.0
+P8,"Cotton Fabrics, Madeups Etc.",7405,Trinidad,52.0
+P8,"Cotton Fabrics, Madeups Etc.",8091,Costa Rica,46.0
+P8,"Cotton Fabrics, Madeups Etc.",8113,El Salvador,95.0
+P8,"Cotton Fabrics, Madeups Etc.",8165,Guatemala,692.0
+P8,"Cotton Fabrics, Madeups Etc.",8177,Honduras,39.0
+P8,"Cotton Fabrics, Madeups Etc.",8287,Nicaragua,50.0
+P8,"Cotton Fabrics, Madeups Etc.",9007,Ameri Samoa,0.0
+P8,"Cotton Fabrics, Madeups Etc.",9037,Bermuda,2.0
+P8,"Cotton Fabrics, Madeups Etc.",9045,Br Virgn Is,1.0
+P8,"Cotton Fabrics, Madeups Etc.",9065,Cayman Is,1.0
+P8,"Cotton Fabrics, Madeups Etc.",9093,Cuba,32.0
+P8,"Cotton Fabrics, Madeups Etc.",9103,Dominic Rep,273.0
+P8,"Cotton Fabrics, Madeups Etc.",9161,Guadeloupe,5.0
+P8,"Cotton Fabrics, Madeups Etc.",9175,Haiti,3.0
+P8,"Cotton Fabrics, Madeups Etc.",9253,Martinique,2.0
+P8,"Cotton Fabrics, Madeups Etc.",9259,Mexico,1269.0
+P8,"Cotton Fabrics, Madeups Etc.",9277,Netherlandantil,112.0
+P8,"Cotton Fabrics, Madeups Etc.",9311,Panama Republic,546.0
+P8,"Cotton Fabrics, Madeups Etc.",9331,Puerto Rico,16.0
+P8,"Cotton Fabrics, Madeups Etc.",9383,Suriname,26.0
+P8,"Cotton Fabrics, Madeups Etc.",9439,Virgin Is Us,1.0
+P8,"Cotton Fabrics, Madeups Etc.",10001,Afghanistan,84.0
+P8,"Cotton Fabrics, Madeups Etc.",10017,Australia,4154.0
+P8,"Cotton Fabrics, Madeups Etc.",10027,Bangladesh Pr,19272.0
+P8,"Cotton Fabrics, Madeups Etc.",10038,Bhutan,17.0
+P8,"Cotton Fabrics, Madeups Etc.",10047,Brunei,6.0
+P8,"Cotton Fabrics, Madeups Etc.",10056,Cambodia,673.0
+P8,"Cotton Fabrics, Madeups Etc.",10077,China P Rp,1764.0
+P8,"Cotton Fabrics, Madeups Etc.",10089,Cook Is,0.0
+P8,"Cotton Fabrics, Madeups Etc.",10127,Fiji Is,52.0
+P8,"Cotton Fabrics, Madeups Etc.",10179,Hong Kong,780.0
+P8,"Cotton Fabrics, Madeups Etc.",10187,Indonesia,775.0
+P8,"Cotton Fabrics, Madeups Etc.",10189,Iran,34.0
+P8,"Cotton Fabrics, Madeups Etc.",10205,Japan,2366.0
+P8,"Cotton Fabrics, Madeups Etc.",10214,Kiribati Rep,1.0
+P8,"Cotton Fabrics, Madeups Etc.",10217,Korea Rp,3201.0
+P8,"Cotton Fabrics, Madeups Etc.",10223,Lao Pd Rp,0.0
+P8,"Cotton Fabrics, Madeups Etc.",10245,Malaysia,1006.0
+P8,"Cotton Fabrics, Madeups Etc.",10252,Marshall Island,1.0
+P8,"Cotton Fabrics, Madeups Etc.",10256,Micronesia,0.0
+P8,"Cotton Fabrics, Madeups Etc.",10258,Myanmar,243.0
+P8,"Cotton Fabrics, Madeups Etc.",10261,Mongolia,4.0
+P8,"Cotton Fabrics, Madeups Etc.",10273,Nepal,1297.0
+P8,"Cotton Fabrics, Madeups Etc.",10285,New Zealand,753.0
+P8,"Cotton Fabrics, Madeups Etc.",10309,Pakistan Ir,293.0
+P8,"Cotton Fabrics, Madeups Etc.",10310,Palau,1.0
+P8,"Cotton Fabrics, Madeups Etc.",10315,Papua N Gna,44.0
+P8,"Cotton Fabrics, Madeups Etc.",10323,Philippines,397.0
+P8,"Cotton Fabrics, Madeups Etc.",10359,Singapore,375.0
+P8,"Cotton Fabrics, Madeups Etc.",10361,Solomon Is,0.0
+P8,"Cotton Fabrics, Madeups Etc.",10369,Sri Lanka Dsr,10566.0
+P8,"Cotton Fabrics, Madeups Etc.",10397,Thailand,906.0
+P8,"Cotton Fabrics, Madeups Etc.",10403,Tonga,2.0
+P8,"Cotton Fabrics, Madeups Etc.",10437,Vietnam Soc Rep,797.0
+P8,"Cotton Fabrics, Madeups Etc.",10447,Samoa,2.0
+P8,"Cotton Fabrics, Madeups Etc.",11025,Baharain Is,108.0
+P8,"Cotton Fabrics, Madeups Etc.",11191,Iraq,9.0
+P8,"Cotton Fabrics, Madeups Etc.",11207,Jordan,102.0
+P8,"Cotton Fabrics, Madeups Etc.",11219,Kuwait,391.0
+P8,"Cotton Fabrics, Madeups Etc.",11225,Lebanon,153.0
+P8,"Cotton Fabrics, Madeups Etc.",11301,Oman,186.0
+P8,"Cotton Fabrics, Madeups Etc.",11335,Qatar,119.0
+P8,"Cotton Fabrics, Madeups Etc.",11351,Saudi Arab,1258.0
+P8,"Cotton Fabrics, Madeups Etc.",11391,Syria,41.0
+P8,"Cotton Fabrics, Madeups Etc.",11419,U Arab Emts,9818.0
+P8,"Cotton Fabrics, Madeups Etc.",11453,Yemen Republc,482.0
+P8,"Cotton Fabrics, Madeups Etc.",12075,Taiwan,222.0
+P8,"Cotton Fabrics, Madeups Etc.",12131,Fr Guiana,1.0
+P8,"Cotton Fabrics, Madeups Etc.",12133,Fr Polynesia,5.0
+P8,"Cotton Fabrics, Madeups Etc.",12195,Israel,1231.0
+P8,"Cotton Fabrics, Madeups Etc.",12215,Korea Dp Rp,15.0
+P8,"Cotton Fabrics, Madeups Etc.",12239,Macao,2.0
+P8,"Cotton Fabrics, Madeups Etc.",12247,Maldives,58.0
+P8,"Cotton Fabrics, Madeups Etc.",12281,New Caledonia,6.0
+P8,"Cotton Fabrics, Madeups Etc.",12431,Vanuatu Rep,0.0
+P8,"Cotton Fabrics, Madeups Etc.",13019,Austria,540.0
+P8,"Cotton Fabrics, Madeups Etc.",13033,Belgium,2297.0
+P8,"Cotton Fabrics, Madeups Etc.",13101,Denmark,1398.0
+P8,"Cotton Fabrics, Madeups Etc.",13125,Finland,349.0
+P8,"Cotton Fabrics, Madeups Etc.",13129,France,3878.0
+P8,"Cotton Fabrics, Madeups Etc.",13147,Germany,9222.0
+P8,"Cotton Fabrics, Madeups Etc.",13155,Greece,276.0
+P8,"Cotton Fabrics, Madeups Etc.",13193,Ireland,262.0
+P8,"Cotton Fabrics, Madeups Etc.",13197,Italy,4594.0
+P8,"Cotton Fabrics, Madeups Etc.",13235,Luxembourg,0.0
+P8,"Cotton Fabrics, Madeups Etc.",13262,Monaco,0.0
+P8,"Cotton Fabrics, Madeups Etc.",13275,Netherland,2886.0
+P8,"Cotton Fabrics, Madeups Etc.",13327,Portugal,672.0
+P8,"Cotton Fabrics, Madeups Etc.",13346,San Marino,2.0
+P8,"Cotton Fabrics, Madeups Etc.",13367,Spain,2372.0
+P8,"Cotton Fabrics, Madeups Etc.",13387,Sweden,2382.0
+P8,"Cotton Fabrics, Madeups Etc.",13421,U K,10376.0
+P8,"Cotton Fabrics, Madeups Etc.",14185,Iceland,6.0
+P8,"Cotton Fabrics, Madeups Etc.",14297,Norway,1041.0
+P8,"Cotton Fabrics, Madeups Etc.",14389,Switzerland,587.0
+P8,"Cotton Fabrics, Madeups Etc.",15003,Albania,4.0
+P8,"Cotton Fabrics, Madeups Etc.",15016,Armenia,1.0
+P8,"Cotton Fabrics, Madeups Etc.",15021,Azerbaijan,3.0
+P8,"Cotton Fabrics, Madeups Etc.",15040,Bosnia-Hrzgovin,26.0
+P8,"Cotton Fabrics, Madeups Etc.",15049,Bulgaria,152.0
+P8,"Cotton Fabrics, Madeups Etc.",15055,Belarus,1.0
+P8,"Cotton Fabrics, Madeups Etc.",15092,Croatia,248.0
+P8,"Cotton Fabrics, Madeups Etc.",15098,Czech Republic,409.0
+P8,"Cotton Fabrics, Madeups Etc.",15114,Estonia,81.0
+P8,"Cotton Fabrics, Madeups Etc.",15145,Georgia,23.0
+P8,"Cotton Fabrics, Madeups Etc.",15181,Hungary,49.0
+P8,"Cotton Fabrics, Madeups Etc.",15212,Kazakhstan,27.0
+P8,"Cotton Fabrics, Madeups Etc.",15216,Kyrghyzstan,9.0
+P8,"Cotton Fabrics, Madeups Etc.",15224,Latvia,369.0
+P8,"Cotton Fabrics, Madeups Etc.",15234,Lithuania,56.0
+P8,"Cotton Fabrics, Madeups Etc.",15240,Macedonia,7.0
+P8,"Cotton Fabrics, Madeups Etc.",15260,Moldova,0.0
+P8,"Cotton Fabrics, Madeups Etc.",15325,Poland,1040.0
+P8,"Cotton Fabrics, Madeups Etc.",15343,Romania,124.0
+P8,"Cotton Fabrics, Madeups Etc.",15344,Russia,920.0
+P8,"Cotton Fabrics, Madeups Etc.",15352,Serbia,25.0
+P8,"Cotton Fabrics, Madeups Etc.",15354,Serbia Montngro,0.0
+P8,"Cotton Fabrics, Madeups Etc.",15356,Montenegro,4.0
+P8,"Cotton Fabrics, Madeups Etc.",15358,Slovak Rep,49.0
+P8,"Cotton Fabrics, Madeups Etc.",15360,Slovenia,177.0
+P8,"Cotton Fabrics, Madeups Etc.",15393,Tajikistan,0.0
+P8,"Cotton Fabrics, Madeups Etc.",15410,Turkmenistan,0.0
+P8,"Cotton Fabrics, Madeups Etc.",15422,Ukraine,23.0
+P8,"Cotton Fabrics, Madeups Etc.",15430,Uzbekistan,76.0
+P8,"Cotton Fabrics, Madeups Etc.",16009,Andorra,8.0
+P8,"Cotton Fabrics, Madeups Etc.",16095,Cyprus,7.0
+P8,"Cotton Fabrics, Madeups Etc.",16151,Gibraltar,0.0
+P8,"Cotton Fabrics, Madeups Etc.",16251,Malta,23.0
+P8,"Cotton Fabrics, Madeups Etc.",16409,Turkey,1209.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",1213,Kenya,61.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",1395,Tanzania Rep,22.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",1417,Uganda,21.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2035,Benin,259.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2050,Burkina Faso,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2057,Cameroon,12.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2069,Chad,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2087,Congo P Rep,2.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2141,Gabon,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2199,Cote D' Ivoire,2.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2241,Madagascar,7.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2257,Mauritius,44.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2345,Rwanda,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2353,Senegal,7.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2399,Togo,53.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",2459,Congo D. Rep.,24.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3011,Angola,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3041,Botswana,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3053,Burundi,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3063,Cape Verde Is,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3085,Comoros,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3102,Djibouti,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3115,Ethiopia,44.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3116,Eritrea,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3143,Gambia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3149,Ghana,5.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3167,Guinea,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3227,Lesotho,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3229,Liberia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3243,Malawi,3.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3249,Mali,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3267,Mozambique,14.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3269,Namibia,5.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3291,Nigeria,235.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3339,Reunion,7.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3355,Seychelles,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3357,Sierra Leone,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3363,Somalia,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3385,Swaziland,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",3461,Zambia,12.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4005,Algeria,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4111,Egypt A Rp,122.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4231,Libya,9.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4265,Morocco,33.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4365,South Africa,155.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4381,Sudan,15.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4407,Tunisia,10.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",4463,Zimbabwe,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",5059,Canada,128.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",5423,U S A,3692.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6015,Argentina,19.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6039,Bolivia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6043,Brazil,175.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6073,Chile,85.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6083,Colombia,53.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6109,Ecuador,3.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6317,Paraguay,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6319,Peru,16.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6427,Uruguay,5.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",6433,Venezuela,6.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",7029,Barbados,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",7159,Grenada,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",7171,Guyana,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",7203,Jamaica,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",7379,St Vincent,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",7405,Trinidad,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",8091,Costa Rica,9.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",8113,El Salvador,90.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",8165,Guatemala,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",8177,Honduras,5.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9037,Bermuda,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9093,Cuba,2.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9103,Dominic Rep,22.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9161,Guadeloupe,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9175,Haiti,3.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9253,Martinique,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9259,Mexico,54.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9277,Netherlandantil,6.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9311,Panama Republic,28.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9331,Puerto Rico,2.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9383,Suriname,3.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",9439,Virgin Is Us,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10001,Afghanistan,22.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10017,Australia,266.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10027,Bangladesh Pr,1080.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10038,Bhutan,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10047,Brunei,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10056,Cambodia,25.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10077,China P Rp,239.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10127,Fiji Is,5.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10179,Hong Kong,169.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10187,Indonesia,120.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10189,Iran,137.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10205,Japan,355.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10217,Korea Rp,141.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10223,Lao Pd Rp,3.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10245,Malaysia,240.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10258,Myanmar,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10273,Nepal,108.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10285,New Zealand,44.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10309,Pakistan Ir,132.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10315,Papua N Gna,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10323,Philippines,40.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10359,Singapore,107.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10369,Sri Lanka Dsr,2108.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10397,Thailand,94.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",10437,Vietnam Soc Rep,676.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11025,Baharain Is,15.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11191,Iraq,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11207,Jordan,45.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11219,Kuwait,184.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11225,Lebanon,50.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11301,Oman,34.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11335,Qatar,21.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11351,Saudi Arab,204.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11391,Syria,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11419,U Arab Emts,762.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",11453,Yemen Republc,27.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12075,Taiwan,12.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12131,Fr Guiana,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12133,Fr Polynesia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12195,Israel,81.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12215,Korea Dp Rp,3.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12247,Maldives,12.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",12281,New Caledonia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13019,Austria,24.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13033,Belgium,154.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13101,Denmark,35.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13125,Finland,36.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13129,France,382.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13147,Germany,363.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13155,Greece,58.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13193,Ireland,18.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13197,Italy,769.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13235,Luxembourg,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13275,Netherland,140.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13327,Portugal,76.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13346,San Marino,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13367,Spain,244.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13387,Sweden,138.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",13421,U K,1565.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",14121,Faroe Is.,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",14185,Iceland,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",14297,Norway,20.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",14389,Switzerland,39.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15003,Albania,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15016,Armenia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15021,Azerbaijan,6.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15040,Bosnia-Hrzgovin,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15049,Bulgaria,33.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15055,Belarus,2.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15092,Croatia,6.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15098,Czech Republic,18.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15114,Estonia,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15145,Georgia,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15181,Hungary,13.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15212,Kazakhstan,2.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15216,Kyrghyzstan,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15224,Latvia,9.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15234,Lithuania,10.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15260,Moldova,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15325,Poland,80.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15343,Romania,6.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15344,Russia,54.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15352,Serbia,8.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15354,Serbia Montngro,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15356,Montenegro,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15358,Slovak Rep,7.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15360,Slovenia,56.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15393,Tajikistan,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15410,Turkmenistan,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15422,Ukraine,4.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",15430,Uzbekistan,12.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",16095,Cyprus,6.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",16151,Gibraltar,0.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",16251,Malta,1.0
+P9,"Oth Txtl Yrn, Fbric Mdup Artcl",16409,Turkey,168.0
+Q1,"Silk,Raw",7159,Grenada,0.0
+Q1,"Silk,Raw",10273,Nepal,5.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",1213,Kenya,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",1395,Tanzania Rep,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",2057,Cameroon,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",2141,Gabon,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",2241,Madagascar,3.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",2257,Mauritius,11.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",2353,Senegal,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",2399,Togo,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3041,Botswana,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3085,Comoros,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3115,Ethiopia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3149,Ghana,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3243,Malawi,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3267,Mozambique,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3291,Nigeria,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3339,Reunion,2.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3355,Seychelles,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3363,Somalia,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3385,Swaziland,3.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",3461,Zambia,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",4111,Egypt A Rp,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",4265,Morocco,11.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",4365,South Africa,16.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",4381,Sudan,35.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",4463,Zimbabwe,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",5059,Canada,136.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",5157,Greenland,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",5423,U S A,1200.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",5424,Us Minor Outlying Islands,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",6015,Argentina,5.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",6043,Brazil,26.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",6073,Chile,12.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",6083,Colombia,2.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",6109,Ecuador,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",6427,Uruguay,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",7405,Trinidad,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",8091,Costa Rica,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",8113,El Salvador,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",8165,Guatemala,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9045,Br Virgn Is,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9103,Dominic Rep,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9161,Guadeloupe,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9253,Martinique,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9259,Mexico,9.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9277,Netherlandantil,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9311,Panama Republic,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",9331,Puerto Rico,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10001,Afghanistan,21.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10017,Australia,69.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10027,Bangladesh Pr,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10047,Brunei,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10056,Cambodia,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10077,China P Rp,70.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10127,Fiji Is,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10179,Hong Kong,96.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10187,Indonesia,2.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10189,Iran,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10205,Japan,41.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10217,Korea Rp,24.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10245,Malaysia,159.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10261,Mongolia,2.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10273,Nepal,5.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10285,New Zealand,15.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10309,Pakistan Ir,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10323,Philippines,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10359,Singapore,209.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10369,Sri Lanka Dsr,141.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10397,Thailand,15.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",10437,Vietnam Soc Rep,9.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11025,Baharain Is,3.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11191,Iraq,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11207,Jordan,2.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11219,Kuwait,21.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11225,Lebanon,46.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11301,Oman,51.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11335,Qatar,45.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11351,Saudi Arab,56.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",11419,U Arab Emts,769.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",12075,Taiwan,11.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",12131,Fr Guiana,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",12195,Israel,10.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",12215,Korea Dp Rp,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",12247,Maldives,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13019,Austria,16.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13033,Belgium,87.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13101,Denmark,8.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13125,Finland,9.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13129,France,198.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13147,Germany,399.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13155,Greece,8.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13193,Ireland,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13197,Italy,294.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13275,Netherland,101.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13327,Portugal,9.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13367,Spain,58.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13387,Sweden,28.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",13421,U K,801.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",14185,Iceland,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",14297,Norway,5.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",14389,Switzerland,39.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15021,Azerbaijan,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15049,Bulgaria,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15092,Croatia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15098,Czech Republic,22.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15114,Estonia,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15145,Georgia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15181,Hungary,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15212,Kazakhstan,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15224,Latvia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15234,Lithuania,4.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15240,Macedonia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15325,Poland,9.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15343,Romania,2.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15344,Russia,9.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15352,Serbia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15354,Serbia Montngro,3.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15356,Montenegro,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15358,Slovak Rep,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15360,Slovenia,1.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",15430,Uzbekistan,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",16095,Cyprus,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",16251,Malta,0.0
+Q2,"Natrl Silk Yarn,Fabrics,Madeup",16409,Turkey,60.0
+Q3,"Manmade Yarn,Fabrics,Madeups",1213,Kenya,2669.0
+Q3,"Manmade Yarn,Fabrics,Madeups",1395,Tanzania Rep,1186.0
+Q3,"Manmade Yarn,Fabrics,Madeups",1417,Uganda,439.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2035,Benin,1000.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2050,Burkina Faso,152.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2057,Cameroon,155.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2069,Chad,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2087,Congo P Rep,130.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2141,Gabon,2.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2199,Cote D' Ivoire,227.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2241,Madagascar,459.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2255,Mauritania,177.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2257,Mauritius,723.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2289,Niger,188.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2345,Rwanda,126.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2353,Senegal,878.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2399,Togo,1898.0
+Q3,"Manmade Yarn,Fabrics,Madeups",2459,Congo D. Rep.,315.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3011,Angola,131.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3041,Botswana,20.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3053,Burundi,9.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3063,Cape Verde Is,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3085,Comoros,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3102,Djibouti,332.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3115,Ethiopia,728.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3116,Eritrea,135.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3117,Equtl Guinea,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3143,Gambia,389.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3149,Ghana,516.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3167,Guinea,75.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3227,Lesotho,23.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3229,Liberia,27.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3243,Malawi,90.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3249,Mali,625.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3267,Mozambique,671.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3269,Namibia,10.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3291,Nigeria,3057.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3339,Reunion,33.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3355,Seychelles,13.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3357,Sierra Leone,24.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3363,Somalia,53.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3385,Swaziland,2.0
+Q3,"Manmade Yarn,Fabrics,Madeups",3461,Zambia,393.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4005,Algeria,1115.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4111,Egypt A Rp,7712.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4231,Libya,120.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4265,Morocco,2583.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4365,South Africa,1908.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4381,Sudan,1127.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4407,Tunisia,639.0
+Q3,"Manmade Yarn,Fabrics,Madeups",4463,Zimbabwe,57.0
+Q3,"Manmade Yarn,Fabrics,Madeups",5059,Canada,2326.0
+Q3,"Manmade Yarn,Fabrics,Madeups",5423,U S A,17537.0
+Q3,"Manmade Yarn,Fabrics,Madeups",5424,Us Minor Outlying Islands,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6015,Argentina,1847.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6039,Bolivia,37.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6043,Brazil,10419.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6073,Chile,1315.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6083,Colombia,2477.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6109,Ecuador,652.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6317,Paraguay,63.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6319,Peru,2466.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6427,Uruguay,199.0
+Q3,"Manmade Yarn,Fabrics,Madeups",6433,Venezuela,822.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7029,Barbados,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7031,Belize,2.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7105,Dominica,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7171,Guyana,29.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7203,Jamaica,29.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7375,St Lucia,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7379,St Vincent,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",7405,Trinidad,117.0
+Q3,"Manmade Yarn,Fabrics,Madeups",8091,Costa Rica,70.0
+Q3,"Manmade Yarn,Fabrics,Madeups",8113,El Salvador,155.0
+Q3,"Manmade Yarn,Fabrics,Madeups",8165,Guatemala,357.0
+Q3,"Manmade Yarn,Fabrics,Madeups",8177,Honduras,379.0
+Q3,"Manmade Yarn,Fabrics,Madeups",8287,Nicaragua,70.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9093,Cuba,102.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9103,Dominic Rep,261.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9161,Guadeloupe,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9175,Haiti,28.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9253,Martinique,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9259,Mexico,3274.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9277,Netherlandantil,9.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9311,Panama Republic,642.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9331,Puerto Rico,5.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9383,Suriname,37.0
+Q3,"Manmade Yarn,Fabrics,Madeups",9439,Virgin Is Us,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10001,Afghanistan,7261.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10017,Australia,1805.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10027,Bangladesh Pr,12888.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10047,Brunei,36.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10056,Cambodia,655.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10077,China P Rp,2093.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10127,Fiji Is,190.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10179,Hong Kong,626.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10187,Indonesia,2954.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10189,Iran,4005.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10205,Japan,1808.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10214,Kiribati Rep,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10217,Korea Rp,2918.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10223,Lao Pd Rp,4.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10245,Malaysia,2891.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10256,Micronesia,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10258,Myanmar,166.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10261,Mongolia,2.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10273,Nepal,485.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10285,New Zealand,323.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10309,Pakistan Ir,6339.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10315,Papua N Gna,20.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10323,Philippines,473.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10359,Singapore,1644.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10369,Sri Lanka Dsr,5393.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10397,Thailand,1957.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10403,Tonga,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10437,Vietnam Soc Rep,3248.0
+Q3,"Manmade Yarn,Fabrics,Madeups",10447,Samoa,5.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11025,Baharain Is,472.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11191,Iraq,132.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11207,Jordan,587.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11219,Kuwait,1119.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11225,Lebanon,277.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11301,Oman,795.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11335,Qatar,406.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11351,Saudi Arab,2228.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11391,Syria,746.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11419,U Arab Emts,23988.0
+Q3,"Manmade Yarn,Fabrics,Madeups",11453,Yemen Republc,1129.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12075,Taiwan,157.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12131,Fr Guiana,2.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12133,Fr Polynesia,3.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12163,Guam,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12195,Israel,691.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12215,Korea Dp Rp,23.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12239,Macao,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12247,Maldives,29.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12281,New Caledonia,5.0
+Q3,"Manmade Yarn,Fabrics,Madeups",12431,Vanuatu Rep,1.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13019,Austria,139.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13033,Belgium,4713.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13101,Denmark,567.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13125,Finland,158.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13129,France,2083.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13147,Germany,5598.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13155,Greece,312.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13193,Ireland,227.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13197,Italy,4664.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13235,Luxembourg,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13275,Netherland,2382.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13327,Portugal,1811.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13367,Spain,4036.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13387,Sweden,378.0
+Q3,"Manmade Yarn,Fabrics,Madeups",13421,U K,7420.0
+Q3,"Manmade Yarn,Fabrics,Madeups",14121,Faroe Is.,115.0
+Q3,"Manmade Yarn,Fabrics,Madeups",14185,Iceland,65.0
+Q3,"Manmade Yarn,Fabrics,Madeups",14297,Norway,825.0
+Q3,"Manmade Yarn,Fabrics,Madeups",14389,Switzerland,63.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15016,Armenia,7.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15021,Azerbaijan,143.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15040,Bosnia-Hrzgovin,82.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15049,Bulgaria,186.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15055,Belarus,20.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15092,Croatia,42.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15098,Czech Republic,589.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15114,Estonia,89.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15145,Georgia,27.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15181,Hungary,73.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15212,Kazakhstan,304.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15216,Kyrghyzstan,40.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15224,Latvia,208.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15234,Lithuania,173.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15240,Macedonia,4.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15260,Moldova,5.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15325,Poland,1752.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15343,Romania,364.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15344,Russia,963.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15352,Serbia,4.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15354,Serbia Montngro,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15356,Montenegro,6.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15358,Slovak Rep,41.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15360,Slovenia,159.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15393,Tajikistan,10.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15422,Ukraine,151.0
+Q3,"Manmade Yarn,Fabrics,Madeups",15430,Uzbekistan,184.0
+Q3,"Manmade Yarn,Fabrics,Madeups",16095,Cyprus,33.0
+Q3,"Manmade Yarn,Fabrics,Madeups",16151,Gibraltar,0.0
+Q3,"Manmade Yarn,Fabrics,Madeups",16251,Malta,18.0
+Q3,"Manmade Yarn,Fabrics,Madeups",16409,Turkey,21090.0
+Q4,"Wool, Raw",5423,U S A,1.0
+Q4,"Wool, Raw",10027,Bangladesh Pr,0.0
+Q4,"Wool, Raw",10273,Nepal,0.0
+Q4,"Wool, Raw",13019,Austria,0.0
+Q4,"Wool, Raw",13421,U K,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",1213,Kenya,7.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",1395,Tanzania Rep,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",1417,Uganda,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",2057,Cameroon,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",2087,Congo P Rep,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",2257,Mauritius,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",2345,Rwanda,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",2399,Togo,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",2459,Congo D. Rep.,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3011,Angola,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3102,Djibouti,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3115,Ethiopia,12.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3149,Ghana,3.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3229,Liberia,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3243,Malawi,5.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3291,Nigeria,3.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3363,Somalia,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",3461,Zambia,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4005,Algeria,12.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4111,Egypt A Rp,153.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4231,Libya,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4265,Morocco,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4365,South Africa,48.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4381,Sudan,19.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4407,Tunisia,40.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",4463,Zimbabwe,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",5059,Canada,65.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",5423,U S A,725.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",6043,Brazil,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",6073,Chile,117.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",6083,Colombia,10.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",6109,Ecuador,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",6427,Uruguay,16.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",7020,Aruba,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",7405,Trinidad,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",8165,Guatemala,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",9175,Haiti,29.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",9259,Mexico,100.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10001,Afghanistan,6.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10017,Australia,96.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10027,Bangladesh Pr,150.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10038,Bhutan,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10056,Cambodia,144.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10077,China P Rp,226.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10127,Fiji Is,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10179,Hong Kong,52.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10187,Indonesia,68.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10189,Iran,71.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10205,Japan,414.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10217,Korea Rp,471.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10223,Lao Pd Rp,3.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10245,Malaysia,102.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10258,Myanmar,88.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10273,Nepal,56.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10285,New Zealand,96.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10309,Pakistan Ir,8.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10323,Philippines,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10359,Singapore,43.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10369,Sri Lanka Dsr,106.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10397,Thailand,70.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",10437,Vietnam Soc Rep,273.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11025,Baharain Is,18.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11191,Iraq,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11207,Jordan,37.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11219,Kuwait,10.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11225,Lebanon,21.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11301,Oman,11.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11335,Qatar,16.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11351,Saudi Arab,82.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11391,Syria,7.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11419,U Arab Emts,585.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",11453,Yemen Republc,13.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",12075,Taiwan,63.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",12195,Israel,163.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",12215,Korea Dp Rp,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",12247,Maldives,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13019,Austria,9.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13033,Belgium,124.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13101,Denmark,5.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13125,Finland,17.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13129,France,11.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13147,Germany,318.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13155,Greece,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13193,Ireland,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13197,Italy,1880.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13275,Netherland,6.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13327,Portugal,72.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13367,Spain,36.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13387,Sweden,3.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",13421,U K,1116.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",14297,Norway,6.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",14389,Switzerland,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15003,Albania,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15021,Azerbaijan,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15049,Bulgaria,176.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15055,Belarus,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15098,Czech Republic,6.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15181,Hungary,2.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15224,Latvia,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15234,Lithuania,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15325,Poland,134.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15343,Romania,4.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15344,Russia,3.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15356,Montenegro,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15358,Slovak Rep,4.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15360,Slovenia,4.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",15430,Uzbekistan,0.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",16095,Cyprus,1.0
+Q5,"Wollen Yarn,Fabrics,Madeupsetc",16409,Turkey,75.0
+Q6,Rmg Cotton Incl Accessories,1213,Kenya,166.0
+Q6,Rmg Cotton Incl Accessories,1395,Tanzania Rep,887.0
+Q6,Rmg Cotton Incl Accessories,1417,Uganda,75.0
+Q6,Rmg Cotton Incl Accessories,2035,Benin,111.0
+Q6,Rmg Cotton Incl Accessories,2050,Burkina Faso,18.0
+Q6,Rmg Cotton Incl Accessories,2057,Cameroon,309.0
+Q6,Rmg Cotton Incl Accessories,2067,C Afri Rep,2.0
+Q6,Rmg Cotton Incl Accessories,2069,Chad,3.0
+Q6,Rmg Cotton Incl Accessories,2087,Congo P Rep,28.0
+Q6,Rmg Cotton Incl Accessories,2141,Gabon,7.0
+Q6,Rmg Cotton Incl Accessories,2199,Cote D' Ivoire,25.0
+Q6,Rmg Cotton Incl Accessories,2241,Madagascar,129.0
+Q6,Rmg Cotton Incl Accessories,2255,Mauritania,8.0
+Q6,Rmg Cotton Incl Accessories,2257,Mauritius,1016.0
+Q6,Rmg Cotton Incl Accessories,2289,Niger,46.0
+Q6,Rmg Cotton Incl Accessories,2345,Rwanda,395.0
+Q6,Rmg Cotton Incl Accessories,2353,Senegal,522.0
+Q6,Rmg Cotton Incl Accessories,2399,Togo,116.0
+Q6,Rmg Cotton Incl Accessories,2459,Congo D. Rep.,37.0
+Q6,Rmg Cotton Incl Accessories,3011,Angola,65.0
+Q6,Rmg Cotton Incl Accessories,3041,Botswana,20.0
+Q6,Rmg Cotton Incl Accessories,3053,Burundi,10.0
+Q6,Rmg Cotton Incl Accessories,3063,Cape Verde Is,1.0
+Q6,Rmg Cotton Incl Accessories,3085,Comoros,71.0
+Q6,Rmg Cotton Incl Accessories,3102,Djibouti,99.0
+Q6,Rmg Cotton Incl Accessories,3115,Ethiopia,408.0
+Q6,Rmg Cotton Incl Accessories,3116,Eritrea,15.0
+Q6,Rmg Cotton Incl Accessories,3117,Equtl Guinea,0.0
+Q6,Rmg Cotton Incl Accessories,3143,Gambia,0.0
+Q6,Rmg Cotton Incl Accessories,3149,Ghana,182.0
+Q6,Rmg Cotton Incl Accessories,3167,Guinea,44.0
+Q6,Rmg Cotton Incl Accessories,3169,Guinea Bissau,0.0
+Q6,Rmg Cotton Incl Accessories,3227,Lesotho,16.0
+Q6,Rmg Cotton Incl Accessories,3229,Liberia,13.0
+Q6,Rmg Cotton Incl Accessories,3243,Malawi,4.0
+Q6,Rmg Cotton Incl Accessories,3249,Mali,642.0
+Q6,Rmg Cotton Incl Accessories,3267,Mozambique,191.0
+Q6,Rmg Cotton Incl Accessories,3269,Namibia,128.0
+Q6,Rmg Cotton Incl Accessories,3291,Nigeria,3210.0
+Q6,Rmg Cotton Incl Accessories,3339,Reunion,55.0
+Q6,Rmg Cotton Incl Accessories,3347,Saharwi A.Dm Rp,0.0
+Q6,Rmg Cotton Incl Accessories,3355,Seychelles,4.0
+Q6,Rmg Cotton Incl Accessories,3357,Sierra Leone,1.0
+Q6,Rmg Cotton Incl Accessories,3363,Somalia,56.0
+Q6,Rmg Cotton Incl Accessories,3385,Swaziland,11.0
+Q6,Rmg Cotton Incl Accessories,3461,Zambia,70.0
+Q6,Rmg Cotton Incl Accessories,4005,Algeria,171.0
+Q6,Rmg Cotton Incl Accessories,4111,Egypt A Rp,82.0
+Q6,Rmg Cotton Incl Accessories,4231,Libya,62.0
+Q6,Rmg Cotton Incl Accessories,4265,Morocco,63.0
+Q6,Rmg Cotton Incl Accessories,4365,South Africa,2697.0
+Q6,Rmg Cotton Incl Accessories,4381,Sudan,1905.0
+Q6,Rmg Cotton Incl Accessories,4407,Tunisia,31.0
+Q6,Rmg Cotton Incl Accessories,4463,Zimbabwe,1403.0
+Q6,Rmg Cotton Incl Accessories,5059,Canada,6789.0
+Q6,Rmg Cotton Incl Accessories,5157,Greenland,0.0
+Q6,Rmg Cotton Incl Accessories,5423,U S A,100000.0
+Q6,Rmg Cotton Incl Accessories,5424,Us Minor Outlying Islands,2.0
+Q6,Rmg Cotton Incl Accessories,6015,Argentina,645.0
+Q6,Rmg Cotton Incl Accessories,6039,Bolivia,2.0
+Q6,Rmg Cotton Incl Accessories,6043,Brazil,4143.0
+Q6,Rmg Cotton Incl Accessories,6073,Chile,1383.0
+Q6,Rmg Cotton Incl Accessories,6083,Colombia,351.0
+Q6,Rmg Cotton Incl Accessories,6109,Ecuador,2.0
+Q6,Rmg Cotton Incl Accessories,6317,Paraguay,19.0
+Q6,Rmg Cotton Incl Accessories,6319,Peru,895.0
+Q6,Rmg Cotton Incl Accessories,6427,Uruguay,270.0
+Q6,Rmg Cotton Incl Accessories,6433,Venezuela,126.0
+Q6,Rmg Cotton Incl Accessories,7013,Antigua,1.0
+Q6,Rmg Cotton Incl Accessories,7020,Aruba,35.0
+Q6,Rmg Cotton Incl Accessories,7023,Bahamas,6.0
+Q6,Rmg Cotton Incl Accessories,7029,Barbados,9.0
+Q6,Rmg Cotton Incl Accessories,7031,Belize,10.0
+Q6,Rmg Cotton Incl Accessories,7105,Dominica,0.0
+Q6,Rmg Cotton Incl Accessories,7159,Grenada,6.0
+Q6,Rmg Cotton Incl Accessories,7171,Guyana,18.0
+Q6,Rmg Cotton Incl Accessories,7203,Jamaica,95.0
+Q6,Rmg Cotton Incl Accessories,7373,St Kitt N A,13.0
+Q6,Rmg Cotton Incl Accessories,7375,St Lucia,1.0
+Q6,Rmg Cotton Incl Accessories,7405,Trinidad,158.0
+Q6,Rmg Cotton Incl Accessories,8091,Costa Rica,70.0
+Q6,Rmg Cotton Incl Accessories,8113,El Salvador,29.0
+Q6,Rmg Cotton Incl Accessories,8165,Guatemala,5.0
+Q6,Rmg Cotton Incl Accessories,8177,Honduras,6.0
+Q6,Rmg Cotton Incl Accessories,8287,Nicaragua,0.0
+Q6,Rmg Cotton Incl Accessories,9007,Ameri Samoa,0.0
+Q6,Rmg Cotton Incl Accessories,9037,Bermuda,4.0
+Q6,Rmg Cotton Incl Accessories,9045,Br Virgn Is,4.0
+Q6,Rmg Cotton Incl Accessories,9065,Cayman Is,1.0
+Q6,Rmg Cotton Incl Accessories,9103,Dominic Rep,22.0
+Q6,Rmg Cotton Incl Accessories,9161,Guadeloupe,8.0
+Q6,Rmg Cotton Incl Accessories,9175,Haiti,24.0
+Q6,Rmg Cotton Incl Accessories,9253,Martinique,0.0
+Q6,Rmg Cotton Incl Accessories,9259,Mexico,4436.0
+Q6,Rmg Cotton Incl Accessories,9277,Netherlandantil,411.0
+Q6,Rmg Cotton Incl Accessories,9311,Panama Republic,1336.0
+Q6,Rmg Cotton Incl Accessories,9331,Puerto Rico,166.0
+Q6,Rmg Cotton Incl Accessories,9383,Suriname,45.0
+Q6,Rmg Cotton Incl Accessories,9411,Turks C Is,0.0
+Q6,Rmg Cotton Incl Accessories,9439,Virgin Is Us,7.0
+Q6,Rmg Cotton Incl Accessories,10001,Afghanistan,521.0
+Q6,Rmg Cotton Incl Accessories,10017,Australia,4431.0
+Q6,Rmg Cotton Incl Accessories,10027,Bangladesh Pr,123.0
+Q6,Rmg Cotton Incl Accessories,10038,Bhutan,13.0
+Q6,Rmg Cotton Incl Accessories,10047,Brunei,14.0
+Q6,Rmg Cotton Incl Accessories,10056,Cambodia,1.0
+Q6,Rmg Cotton Incl Accessories,10077,China P Rp,2338.0
+Q6,Rmg Cotton Incl Accessories,10089,Cook Is,0.0
+Q6,Rmg Cotton Incl Accessories,10127,Fiji Is,121.0
+Q6,Rmg Cotton Incl Accessories,10179,Hong Kong,2099.0
+Q6,Rmg Cotton Incl Accessories,10187,Indonesia,132.0
+Q6,Rmg Cotton Incl Accessories,10189,Iran,178.0
+Q6,Rmg Cotton Incl Accessories,10205,Japan,6790.0
+Q6,Rmg Cotton Incl Accessories,10217,Korea Rp,1308.0
+Q6,Rmg Cotton Incl Accessories,10245,Malaysia,2414.0
+Q6,Rmg Cotton Incl Accessories,10258,Myanmar,644.0
+Q6,Rmg Cotton Incl Accessories,10261,Mongolia,1.0
+Q6,Rmg Cotton Incl Accessories,10273,Nepal,191.0
+Q6,Rmg Cotton Incl Accessories,10285,New Zealand,512.0
+Q6,Rmg Cotton Incl Accessories,10309,Pakistan Ir,10.0
+Q6,Rmg Cotton Incl Accessories,10315,Papua N Gna,17.0
+Q6,Rmg Cotton Incl Accessories,10323,Philippines,129.0
+Q6,Rmg Cotton Incl Accessories,10359,Singapore,1374.0
+Q6,Rmg Cotton Incl Accessories,10369,Sri Lanka Dsr,1879.0
+Q6,Rmg Cotton Incl Accessories,10397,Thailand,669.0
+Q6,Rmg Cotton Incl Accessories,10403,Tonga,0.0
+Q6,Rmg Cotton Incl Accessories,10437,Vietnam Soc Rep,28.0
+Q6,Rmg Cotton Incl Accessories,10447,Samoa,0.0
+Q6,Rmg Cotton Incl Accessories,11025,Baharain Is,470.0
+Q6,Rmg Cotton Incl Accessories,11191,Iraq,299.0
+Q6,Rmg Cotton Incl Accessories,11207,Jordan,304.0
+Q6,Rmg Cotton Incl Accessories,11219,Kuwait,2345.0
+Q6,Rmg Cotton Incl Accessories,11225,Lebanon,114.0
+Q6,Rmg Cotton Incl Accessories,11301,Oman,665.0
+Q6,Rmg Cotton Incl Accessories,11335,Qatar,462.0
+Q6,Rmg Cotton Incl Accessories,11351,Saudi Arab,8019.0
+Q6,Rmg Cotton Incl Accessories,11391,Syria,0.0
+Q6,Rmg Cotton Incl Accessories,11419,U Arab Emts,40107.0
+Q6,Rmg Cotton Incl Accessories,11453,Yemen Republc,1458.0
+Q6,Rmg Cotton Incl Accessories,12075,Taiwan,147.0
+Q6,Rmg Cotton Incl Accessories,12131,Fr Guiana,1.0
+Q6,Rmg Cotton Incl Accessories,12133,Fr Polynesia,12.0
+Q6,Rmg Cotton Incl Accessories,12163,Guam,0.0
+Q6,Rmg Cotton Incl Accessories,12195,Israel,1179.0
+Q6,Rmg Cotton Incl Accessories,12215,Korea Dp Rp,43.0
+Q6,Rmg Cotton Incl Accessories,12239,Macao,1.0
+Q6,Rmg Cotton Incl Accessories,12247,Maldives,50.0
+Q6,Rmg Cotton Incl Accessories,12281,New Caledonia,6.0
+Q6,Rmg Cotton Incl Accessories,13019,Austria,971.0
+Q6,Rmg Cotton Incl Accessories,13033,Belgium,7254.0
+Q6,Rmg Cotton Incl Accessories,13101,Denmark,5028.0
+Q6,Rmg Cotton Incl Accessories,13125,Finland,1006.0
+Q6,Rmg Cotton Incl Accessories,13129,France,24363.0
+Q6,Rmg Cotton Incl Accessories,13147,Germany,35133.0
+Q6,Rmg Cotton Incl Accessories,13155,Greece,555.0
+Q6,Rmg Cotton Incl Accessories,13193,Ireland,1993.0
+Q6,Rmg Cotton Incl Accessories,13197,Italy,13578.0
+Q6,Rmg Cotton Incl Accessories,13235,Luxembourg,4.0
+Q6,Rmg Cotton Incl Accessories,13262,Monaco,1.0
+Q6,Rmg Cotton Incl Accessories,13275,Netherland,13305.0
+Q6,Rmg Cotton Incl Accessories,13327,Portugal,1051.0
+Q6,Rmg Cotton Incl Accessories,13367,Spain,18105.0
+Q6,Rmg Cotton Incl Accessories,13387,Sweden,3616.0
+Q6,Rmg Cotton Incl Accessories,13421,U K,50114.0
+Q6,Rmg Cotton Incl Accessories,14121,Faroe Is.,0.0
+Q6,Rmg Cotton Incl Accessories,14185,Iceland,7.0
+Q6,Rmg Cotton Incl Accessories,14297,Norway,923.0
+Q6,Rmg Cotton Incl Accessories,14389,Switzerland,1989.0
+Q6,Rmg Cotton Incl Accessories,15003,Albania,13.0
+Q6,Rmg Cotton Incl Accessories,15016,Armenia,61.0
+Q6,Rmg Cotton Incl Accessories,15021,Azerbaijan,674.0
+Q6,Rmg Cotton Incl Accessories,15040,Bosnia-Hrzgovin,10.0
+Q6,Rmg Cotton Incl Accessories,15049,Bulgaria,19.0
+Q6,Rmg Cotton Incl Accessories,15055,Belarus,1.0
+Q6,Rmg Cotton Incl Accessories,15092,Croatia,91.0
+Q6,Rmg Cotton Incl Accessories,15098,Czech Republic,1407.0
+Q6,Rmg Cotton Incl Accessories,15114,Estonia,313.0
+Q6,Rmg Cotton Incl Accessories,15145,Georgia,101.0
+Q6,Rmg Cotton Incl Accessories,15181,Hungary,176.0
+Q6,Rmg Cotton Incl Accessories,15212,Kazakhstan,1062.0
+Q6,Rmg Cotton Incl Accessories,15216,Kyrghyzstan,687.0
+Q6,Rmg Cotton Incl Accessories,15224,Latvia,24.0
+Q6,Rmg Cotton Incl Accessories,15234,Lithuania,14.0
+Q6,Rmg Cotton Incl Accessories,15240,Macedonia,2.0
+Q6,Rmg Cotton Incl Accessories,15260,Moldova,0.0
+Q6,Rmg Cotton Incl Accessories,15325,Poland,3390.0
+Q6,Rmg Cotton Incl Accessories,15343,Romania,261.0
+Q6,Rmg Cotton Incl Accessories,15344,Russia,3125.0
+Q6,Rmg Cotton Incl Accessories,15352,Serbia,23.0
+Q6,Rmg Cotton Incl Accessories,15354,Serbia Montngro,8.0
+Q6,Rmg Cotton Incl Accessories,15356,Montenegro,0.0
+Q6,Rmg Cotton Incl Accessories,15358,Slovak Rep,1218.0
+Q6,Rmg Cotton Incl Accessories,15360,Slovenia,277.0
+Q6,Rmg Cotton Incl Accessories,15393,Tajikistan,90.0
+Q6,Rmg Cotton Incl Accessories,15422,Ukraine,66.0
+Q6,Rmg Cotton Incl Accessories,15430,Uzbekistan,290.0
+Q6,Rmg Cotton Incl Accessories,16095,Cyprus,52.0
+Q6,Rmg Cotton Incl Accessories,16151,Gibraltar,0.0
+Q6,Rmg Cotton Incl Accessories,16251,Malta,4.0
+Q6,Rmg Cotton Incl Accessories,16409,Turkey,1227.0
+Q7,Rmg Silk,1213,Kenya,2.0
+Q7,Rmg Silk,1395,Tanzania Rep,284.0
+Q7,Rmg Silk,1417,Uganda,22.0
+Q7,Rmg Silk,2035,Benin,37.0
+Q7,Rmg Silk,2057,Cameroon,411.0
+Q7,Rmg Silk,2069,Chad,4.0
+Q7,Rmg Silk,2087,Congo P Rep,0.0
+Q7,Rmg Silk,2199,Cote D' Ivoire,1.0
+Q7,Rmg Silk,2241,Madagascar,4.0
+Q7,Rmg Silk,2257,Mauritius,347.0
+Q7,Rmg Silk,2289,Niger,14.0
+Q7,Rmg Silk,2345,Rwanda,414.0
+Q7,Rmg Silk,2353,Senegal,40.0
+Q7,Rmg Silk,2399,Togo,38.0
+Q7,Rmg Silk,3011,Angola,1.0
+Q7,Rmg Silk,3041,Botswana,0.0
+Q7,Rmg Silk,3085,Comoros,32.0
+Q7,Rmg Silk,3102,Djibouti,4.0
+Q7,Rmg Silk,3115,Ethiopia,12.0
+Q7,Rmg Silk,3116,Eritrea,1.0
+Q7,Rmg Silk,3117,Equtl Guinea,0.0
+Q7,Rmg Silk,3143,Gambia,3.0
+Q7,Rmg Silk,3149,Ghana,161.0
+Q7,Rmg Silk,3227,Lesotho,0.0
+Q7,Rmg Silk,3243,Malawi,0.0
+Q7,Rmg Silk,3249,Mali,22.0
+Q7,Rmg Silk,3267,Mozambique,0.0
+Q7,Rmg Silk,3269,Namibia,0.0
+Q7,Rmg Silk,3291,Nigeria,159.0
+Q7,Rmg Silk,3339,Reunion,3.0
+Q7,Rmg Silk,3355,Seychelles,0.0
+Q7,Rmg Silk,3357,Sierra Leone,0.0
+Q7,Rmg Silk,3363,Somalia,0.0
+Q7,Rmg Silk,3385,Swaziland,0.0
+Q7,Rmg Silk,3461,Zambia,0.0
+Q7,Rmg Silk,4005,Algeria,39.0
+Q7,Rmg Silk,4111,Egypt A Rp,13.0
+Q7,Rmg Silk,4231,Libya,2.0
+Q7,Rmg Silk,4265,Morocco,2.0
+Q7,Rmg Silk,4365,South Africa,27.0
+Q7,Rmg Silk,4381,Sudan,655.0
+Q7,Rmg Silk,4407,Tunisia,0.0
+Q7,Rmg Silk,4463,Zimbabwe,1.0
+Q7,Rmg Silk,5059,Canada,94.0
+Q7,Rmg Silk,5423,U S A,1412.0
+Q7,Rmg Silk,5424,Us Minor Outlying Islands,0.0
+Q7,Rmg Silk,6015,Argentina,12.0
+Q7,Rmg Silk,6043,Brazil,84.0
+Q7,Rmg Silk,6073,Chile,18.0
+Q7,Rmg Silk,6083,Colombia,5.0
+Q7,Rmg Silk,6317,Paraguay,0.0
+Q7,Rmg Silk,6319,Peru,4.0
+Q7,Rmg Silk,6427,Uruguay,2.0
+Q7,Rmg Silk,6433,Venezuela,0.0
+Q7,Rmg Silk,7023,Bahamas,0.0
+Q7,Rmg Silk,7029,Barbados,0.0
+Q7,Rmg Silk,7031,Belize,0.0
+Q7,Rmg Silk,7171,Guyana,1.0
+Q7,Rmg Silk,7203,Jamaica,0.0
+Q7,Rmg Silk,7373,St Kitt N A,0.0
+Q7,Rmg Silk,7405,Trinidad,8.0
+Q7,Rmg Silk,8091,Costa Rica,0.0
+Q7,Rmg Silk,8165,Guatemala,0.0
+Q7,Rmg Silk,9045,Br Virgn Is,0.0
+Q7,Rmg Silk,9103,Dominic Rep,0.0
+Q7,Rmg Silk,9161,Guadeloupe,1.0
+Q7,Rmg Silk,9253,Martinique,0.0
+Q7,Rmg Silk,9259,Mexico,10.0
+Q7,Rmg Silk,9277,Netherlandantil,1.0
+Q7,Rmg Silk,9311,Panama Republic,75.0
+Q7,Rmg Silk,9331,Puerto Rico,0.0
+Q7,Rmg Silk,9383,Suriname,11.0
+Q7,Rmg Silk,10001,Afghanistan,293.0
+Q7,Rmg Silk,10014,Antartica,0.0
+Q7,Rmg Silk,10017,Australia,167.0
+Q7,Rmg Silk,10027,Bangladesh Pr,82.0
+Q7,Rmg Silk,10047,Brunei,0.0
+Q7,Rmg Silk,10056,Cambodia,0.0
+Q7,Rmg Silk,10077,China P Rp,16.0
+Q7,Rmg Silk,10127,Fiji Is,5.0
+Q7,Rmg Silk,10179,Hong Kong,82.0
+Q7,Rmg Silk,10187,Indonesia,1.0
+Q7,Rmg Silk,10189,Iran,10.0
+Q7,Rmg Silk,10205,Japan,113.0
+Q7,Rmg Silk,10217,Korea Rp,9.0
+Q7,Rmg Silk,10245,Malaysia,558.0
+Q7,Rmg Silk,10258,Myanmar,0.0
+Q7,Rmg Silk,10261,Mongolia,0.0
+Q7,Rmg Silk,10273,Nepal,1.0
+Q7,Rmg Silk,10285,New Zealand,12.0
+Q7,Rmg Silk,10309,Pakistan Ir,0.0
+Q7,Rmg Silk,10315,Papua N Gna,1.0
+Q7,Rmg Silk,10323,Philippines,0.0
+Q7,Rmg Silk,10359,Singapore,66.0
+Q7,Rmg Silk,10369,Sri Lanka Dsr,44.0
+Q7,Rmg Silk,10397,Thailand,33.0
+Q7,Rmg Silk,10437,Vietnam Soc Rep,7.0
+Q7,Rmg Silk,11025,Baharain Is,20.0
+Q7,Rmg Silk,11191,Iraq,15.0
+Q7,Rmg Silk,11207,Jordan,24.0
+Q7,Rmg Silk,11219,Kuwait,38.0
+Q7,Rmg Silk,11225,Lebanon,57.0
+Q7,Rmg Silk,11301,Oman,89.0
+Q7,Rmg Silk,11335,Qatar,20.0
+Q7,Rmg Silk,11351,Saudi Arab,201.0
+Q7,Rmg Silk,11391,Syria,0.0
+Q7,Rmg Silk,11419,U Arab Emts,4167.0
+Q7,Rmg Silk,11453,Yemen Republc,25.0
+Q7,Rmg Silk,12075,Taiwan,2.0
+Q7,Rmg Silk,12131,Fr Guiana,0.0
+Q7,Rmg Silk,12163,Guam,0.0
+Q7,Rmg Silk,12195,Israel,22.0
+Q7,Rmg Silk,12215,Korea Dp Rp,1.0
+Q7,Rmg Silk,12239,Macao,0.0
+Q7,Rmg Silk,12247,Maldives,3.0
+Q7,Rmg Silk,12281,New Caledonia,0.0
+Q7,Rmg Silk,13019,Austria,13.0
+Q7,Rmg Silk,13033,Belgium,78.0
+Q7,Rmg Silk,13101,Denmark,50.0
+Q7,Rmg Silk,13125,Finland,23.0
+Q7,Rmg Silk,13129,France,457.0
+Q7,Rmg Silk,13147,Germany,284.0
+Q7,Rmg Silk,13155,Greece,12.0
+Q7,Rmg Silk,13193,Ireland,4.0
+Q7,Rmg Silk,13197,Italy,337.0
+Q7,Rmg Silk,13235,Luxembourg,2.0
+Q7,Rmg Silk,13262,Monaco,0.0
+Q7,Rmg Silk,13275,Netherland,79.0
+Q7,Rmg Silk,13327,Portugal,16.0
+Q7,Rmg Silk,13367,Spain,259.0
+Q7,Rmg Silk,13387,Sweden,36.0
+Q7,Rmg Silk,13421,U K,542.0
+Q7,Rmg Silk,14185,Iceland,1.0
+Q7,Rmg Silk,14297,Norway,14.0
+Q7,Rmg Silk,14389,Switzerland,36.0
+Q7,Rmg Silk,15016,Armenia,0.0
+Q7,Rmg Silk,15021,Azerbaijan,2.0
+Q7,Rmg Silk,15040,Bosnia-Hrzgovin,0.0
+Q7,Rmg Silk,15049,Bulgaria,1.0
+Q7,Rmg Silk,15092,Croatia,6.0
+Q7,Rmg Silk,15098,Czech Republic,4.0
+Q7,Rmg Silk,15114,Estonia,7.0
+Q7,Rmg Silk,15145,Georgia,0.0
+Q7,Rmg Silk,15181,Hungary,1.0
+Q7,Rmg Silk,15212,Kazakhstan,256.0
+Q7,Rmg Silk,15216,Kyrghyzstan,2.0
+Q7,Rmg Silk,15224,Latvia,7.0
+Q7,Rmg Silk,15234,Lithuania,0.0
+Q7,Rmg Silk,15240,Macedonia,0.0
+Q7,Rmg Silk,15325,Poland,55.0
+Q7,Rmg Silk,15343,Romania,13.0
+Q7,Rmg Silk,15344,Russia,11.0
+Q7,Rmg Silk,15352,Serbia,1.0
+Q7,Rmg Silk,15354,Serbia Montngro,0.0
+Q7,Rmg Silk,15358,Slovak Rep,1.0
+Q7,Rmg Silk,15360,Slovenia,0.0
+Q7,Rmg Silk,15393,Tajikistan,13.0
+Q7,Rmg Silk,15422,Ukraine,0.0
+Q7,Rmg Silk,15430,Uzbekistan,36.0
+Q7,Rmg Silk,16095,Cyprus,1.0
+Q7,Rmg Silk,16151,Gibraltar,0.0
+Q7,Rmg Silk,16409,Turkey,165.0
+Q8,Rmg Manmade Fibres,1213,Kenya,80.0
+Q8,Rmg Manmade Fibres,1395,Tanzania Rep,234.0
+Q8,Rmg Manmade Fibres,1417,Uganda,107.0
+Q8,Rmg Manmade Fibres,2035,Benin,46.0
+Q8,Rmg Manmade Fibres,2050,Burkina Faso,9.0
+Q8,Rmg Manmade Fibres,2057,Cameroon,47.0
+Q8,Rmg Manmade Fibres,2069,Chad,16.0
+Q8,Rmg Manmade Fibres,2087,Congo P Rep,1.0
+Q8,Rmg Manmade Fibres,2141,Gabon,1.0
+Q8,Rmg Manmade Fibres,2199,Cote D' Ivoire,12.0
+Q8,Rmg Manmade Fibres,2241,Madagascar,126.0
+Q8,Rmg Manmade Fibres,2255,Mauritania,2.0
+Q8,Rmg Manmade Fibres,2257,Mauritius,727.0
+Q8,Rmg Manmade Fibres,2289,Niger,26.0
+Q8,Rmg Manmade Fibres,2345,Rwanda,124.0
+Q8,Rmg Manmade Fibres,2353,Senegal,593.0
+Q8,Rmg Manmade Fibres,2399,Togo,70.0
+Q8,Rmg Manmade Fibres,2459,Congo D. Rep.,5.0
+Q8,Rmg Manmade Fibres,3011,Angola,15.0
+Q8,Rmg Manmade Fibres,3041,Botswana,20.0
+Q8,Rmg Manmade Fibres,3053,Burundi,0.0
+Q8,Rmg Manmade Fibres,3085,Comoros,2.0
+Q8,Rmg Manmade Fibres,3102,Djibouti,45.0
+Q8,Rmg Manmade Fibres,3115,Ethiopia,1992.0
+Q8,Rmg Manmade Fibres,3116,Eritrea,6.0
+Q8,Rmg Manmade Fibres,3143,Gambia,3.0
+Q8,Rmg Manmade Fibres,3149,Ghana,83.0
+Q8,Rmg Manmade Fibres,3167,Guinea,8.0
+Q8,Rmg Manmade Fibres,3227,Lesotho,20.0
+Q8,Rmg Manmade Fibres,3229,Liberia,28.0
+Q8,Rmg Manmade Fibres,3243,Malawi,0.0
+Q8,Rmg Manmade Fibres,3249,Mali,106.0
+Q8,Rmg Manmade Fibres,3267,Mozambique,119.0
+Q8,Rmg Manmade Fibres,3269,Namibia,19.0
+Q8,Rmg Manmade Fibres,3291,Nigeria,151.0
+Q8,Rmg Manmade Fibres,3339,Reunion,12.0
+Q8,Rmg Manmade Fibres,3355,Seychelles,2.0
+Q8,Rmg Manmade Fibres,3357,Sierra Leone,2.0
+Q8,Rmg Manmade Fibres,3363,Somalia,121.0
+Q8,Rmg Manmade Fibres,3385,Swaziland,1.0
+Q8,Rmg Manmade Fibres,3461,Zambia,5.0
+Q8,Rmg Manmade Fibres,4005,Algeria,226.0
+Q8,Rmg Manmade Fibres,4111,Egypt A Rp,90.0
+Q8,Rmg Manmade Fibres,4231,Libya,158.0
+Q8,Rmg Manmade Fibres,4265,Morocco,37.0
+Q8,Rmg Manmade Fibres,4365,South Africa,1165.0
+Q8,Rmg Manmade Fibres,4381,Sudan,430.0
+Q8,Rmg Manmade Fibres,4407,Tunisia,43.0
+Q8,Rmg Manmade Fibres,4463,Zimbabwe,96.0
+Q8,Rmg Manmade Fibres,5059,Canada,1957.0
+Q8,Rmg Manmade Fibres,5423,U S A,30683.0
+Q8,Rmg Manmade Fibres,6015,Argentina,323.0
+Q8,Rmg Manmade Fibres,6039,Bolivia,0.0
+Q8,Rmg Manmade Fibres,6043,Brazil,3535.0
+Q8,Rmg Manmade Fibres,6073,Chile,634.0
+Q8,Rmg Manmade Fibres,6083,Colombia,184.0
+Q8,Rmg Manmade Fibres,6109,Ecuador,1.0
+Q8,Rmg Manmade Fibres,6317,Paraguay,5.0
+Q8,Rmg Manmade Fibres,6319,Peru,109.0
+Q8,Rmg Manmade Fibres,6427,Uruguay,172.0
+Q8,Rmg Manmade Fibres,6433,Venezuela,155.0
+Q8,Rmg Manmade Fibres,7013,Antigua,3.0
+Q8,Rmg Manmade Fibres,7020,Aruba,17.0
+Q8,Rmg Manmade Fibres,7023,Bahamas,0.0
+Q8,Rmg Manmade Fibres,7029,Barbados,8.0
+Q8,Rmg Manmade Fibres,7031,Belize,188.0
+Q8,Rmg Manmade Fibres,7105,Dominica,0.0
+Q8,Rmg Manmade Fibres,7159,Grenada,0.0
+Q8,Rmg Manmade Fibres,7171,Guyana,14.0
+Q8,Rmg Manmade Fibres,7203,Jamaica,20.0
+Q8,Rmg Manmade Fibres,7373,St Kitt N A,13.0
+Q8,Rmg Manmade Fibres,7375,St Lucia,10.0
+Q8,Rmg Manmade Fibres,7405,Trinidad,128.0
+Q8,Rmg Manmade Fibres,8091,Costa Rica,37.0
+Q8,Rmg Manmade Fibres,8113,El Salvador,108.0
+Q8,Rmg Manmade Fibres,8165,Guatemala,1.0
+Q8,Rmg Manmade Fibres,8177,Honduras,0.0
+Q8,Rmg Manmade Fibres,9037,Bermuda,0.0
+Q8,Rmg Manmade Fibres,9045,Br Virgn Is,3.0
+Q8,Rmg Manmade Fibres,9093,Cuba,2.0
+Q8,Rmg Manmade Fibres,9103,Dominic Rep,281.0
+Q8,Rmg Manmade Fibres,9161,Guadeloupe,5.0
+Q8,Rmg Manmade Fibres,9175,Haiti,20.0
+Q8,Rmg Manmade Fibres,9253,Martinique,0.0
+Q8,Rmg Manmade Fibres,9259,Mexico,1152.0
+Q8,Rmg Manmade Fibres,9277,Netherlandantil,533.0
+Q8,Rmg Manmade Fibres,9311,Panama Republic,4270.0
+Q8,Rmg Manmade Fibres,9331,Puerto Rico,132.0
+Q8,Rmg Manmade Fibres,9383,Suriname,53.0
+Q8,Rmg Manmade Fibres,9439,Virgin Is Us,7.0
+Q8,Rmg Manmade Fibres,10001,Afghanistan,2230.0
+Q8,Rmg Manmade Fibres,10017,Australia,1125.0
+Q8,Rmg Manmade Fibres,10027,Bangladesh Pr,91.0
+Q8,Rmg Manmade Fibres,10038,Bhutan,0.0
+Q8,Rmg Manmade Fibres,10047,Brunei,22.0
+Q8,Rmg Manmade Fibres,10056,Cambodia,0.0
+Q8,Rmg Manmade Fibres,10077,China P Rp,485.0
+Q8,Rmg Manmade Fibres,10089,Cook Is,0.0
+Q8,Rmg Manmade Fibres,10127,Fiji Is,131.0
+Q8,Rmg Manmade Fibres,10179,Hong Kong,515.0
+Q8,Rmg Manmade Fibres,10187,Indonesia,25.0
+Q8,Rmg Manmade Fibres,10189,Iran,101.0
+Q8,Rmg Manmade Fibres,10205,Japan,1027.0
+Q8,Rmg Manmade Fibres,10217,Korea Rp,90.0
+Q8,Rmg Manmade Fibres,10245,Malaysia,3359.0
+Q8,Rmg Manmade Fibres,10258,Myanmar,46.0
+Q8,Rmg Manmade Fibres,10261,Mongolia,1.0
+Q8,Rmg Manmade Fibres,10273,Nepal,23.0
+Q8,Rmg Manmade Fibres,10285,New Zealand,197.0
+Q8,Rmg Manmade Fibres,10309,Pakistan Ir,9.0
+Q8,Rmg Manmade Fibres,10310,Palau,0.0
+Q8,Rmg Manmade Fibres,10315,Papua N Gna,7.0
+Q8,Rmg Manmade Fibres,10323,Philippines,14.0
+Q8,Rmg Manmade Fibres,10359,Singapore,708.0
+Q8,Rmg Manmade Fibres,10369,Sri Lanka Dsr,738.0
+Q8,Rmg Manmade Fibres,10397,Thailand,396.0
+Q8,Rmg Manmade Fibres,10437,Vietnam Soc Rep,4.0
+Q8,Rmg Manmade Fibres,11025,Baharain Is,262.0
+Q8,Rmg Manmade Fibres,11191,Iraq,74.0
+Q8,Rmg Manmade Fibres,11207,Jordan,395.0
+Q8,Rmg Manmade Fibres,11219,Kuwait,548.0
+Q8,Rmg Manmade Fibres,11225,Lebanon,29.0
+Q8,Rmg Manmade Fibres,11301,Oman,163.0
+Q8,Rmg Manmade Fibres,11335,Qatar,197.0
+Q8,Rmg Manmade Fibres,11351,Saudi Arab,2524.0
+Q8,Rmg Manmade Fibres,11391,Syria,25.0
+Q8,Rmg Manmade Fibres,11419,U Arab Emts,38244.0
+Q8,Rmg Manmade Fibres,11453,Yemen Republc,1269.0
+Q8,Rmg Manmade Fibres,12075,Taiwan,16.0
+Q8,Rmg Manmade Fibres,12131,Fr Guiana,1.0
+Q8,Rmg Manmade Fibres,12133,Fr Polynesia,1.0
+Q8,Rmg Manmade Fibres,12163,Guam,0.0
+Q8,Rmg Manmade Fibres,12195,Israel,368.0
+Q8,Rmg Manmade Fibres,12215,Korea Dp Rp,3.0
+Q8,Rmg Manmade Fibres,12239,Macao,0.0
+Q8,Rmg Manmade Fibres,12247,Maldives,15.0
+Q8,Rmg Manmade Fibres,12281,New Caledonia,0.0
+Q8,Rmg Manmade Fibres,13019,Austria,89.0
+Q8,Rmg Manmade Fibres,13033,Belgium,2221.0
+Q8,Rmg Manmade Fibres,13101,Denmark,5034.0
+Q8,Rmg Manmade Fibres,13125,Finland,288.0
+Q8,Rmg Manmade Fibres,13129,France,7353.0
+Q8,Rmg Manmade Fibres,13147,Germany,9384.0
+Q8,Rmg Manmade Fibres,13155,Greece,126.0
+Q8,Rmg Manmade Fibres,13193,Ireland,620.0
+Q8,Rmg Manmade Fibres,13197,Italy,2696.0
+Q8,Rmg Manmade Fibres,13235,Luxembourg,0.0
+Q8,Rmg Manmade Fibres,13262,Monaco,1.0
+Q8,Rmg Manmade Fibres,13275,Netherland,2661.0
+Q8,Rmg Manmade Fibres,13327,Portugal,282.0
+Q8,Rmg Manmade Fibres,13346,San Marino,0.0
+Q8,Rmg Manmade Fibres,13367,Spain,8818.0
+Q8,Rmg Manmade Fibres,13387,Sweden,2149.0
+Q8,Rmg Manmade Fibres,13421,U K,20280.0
+Q8,Rmg Manmade Fibres,14121,Faroe Is.,1.0
+Q8,Rmg Manmade Fibres,14185,Iceland,2.0
+Q8,Rmg Manmade Fibres,14297,Norway,412.0
+Q8,Rmg Manmade Fibres,14389,Switzerland,339.0
+Q8,Rmg Manmade Fibres,15003,Albania,1.0
+Q8,Rmg Manmade Fibres,15016,Armenia,1495.0
+Q8,Rmg Manmade Fibres,15021,Azerbaijan,1085.0
+Q8,Rmg Manmade Fibres,15040,Bosnia-Hrzgovin,5.0
+Q8,Rmg Manmade Fibres,15049,Bulgaria,6.0
+Q8,Rmg Manmade Fibres,15055,Belarus,0.0
+Q8,Rmg Manmade Fibres,15092,Croatia,18.0
+Q8,Rmg Manmade Fibres,15098,Czech Republic,153.0
+Q8,Rmg Manmade Fibres,15114,Estonia,106.0
+Q8,Rmg Manmade Fibres,15145,Georgia,172.0
+Q8,Rmg Manmade Fibres,15181,Hungary,16.0
+Q8,Rmg Manmade Fibres,15212,Kazakhstan,1198.0
+Q8,Rmg Manmade Fibres,15216,Kyrghyzstan,163.0
+Q8,Rmg Manmade Fibres,15224,Latvia,20.0
+Q8,Rmg Manmade Fibres,15234,Lithuania,6.0
+Q8,Rmg Manmade Fibres,15240,Macedonia,4.0
+Q8,Rmg Manmade Fibres,15260,Moldova,0.0
+Q8,Rmg Manmade Fibres,15325,Poland,859.0
+Q8,Rmg Manmade Fibres,15343,Romania,49.0
+Q8,Rmg Manmade Fibres,15344,Russia,561.0
+Q8,Rmg Manmade Fibres,15352,Serbia,7.0
+Q8,Rmg Manmade Fibres,15354,Serbia Montngro,6.0
+Q8,Rmg Manmade Fibres,15358,Slovak Rep,148.0
+Q8,Rmg Manmade Fibres,15360,Slovenia,5.0
+Q8,Rmg Manmade Fibres,15393,Tajikistan,456.0
+Q8,Rmg Manmade Fibres,15422,Ukraine,20.0
+Q8,Rmg Manmade Fibres,15430,Uzbekistan,273.0
+Q8,Rmg Manmade Fibres,16095,Cyprus,8.0
+Q8,Rmg Manmade Fibres,16151,Gibraltar,0.0
+Q8,Rmg Manmade Fibres,16251,Malta,0.0
+Q8,Rmg Manmade Fibres,16409,Turkey,546.0
+Q9,Rmg Wool,1213,Kenya,3.0
+Q9,Rmg Wool,1395,Tanzania Rep,125.0
+Q9,Rmg Wool,1417,Uganda,22.0
+Q9,Rmg Wool,2035,Benin,10.0
+Q9,Rmg Wool,2057,Cameroon,11.0
+Q9,Rmg Wool,2067,C Afri Rep,0.0
+Q9,Rmg Wool,2087,Congo P Rep,0.0
+Q9,Rmg Wool,2241,Madagascar,0.0
+Q9,Rmg Wool,2255,Mauritania,0.0
+Q9,Rmg Wool,2257,Mauritius,26.0
+Q9,Rmg Wool,2289,Niger,0.0
+Q9,Rmg Wool,2345,Rwanda,599.0
+Q9,Rmg Wool,2353,Senegal,3.0
+Q9,Rmg Wool,2399,Togo,0.0
+Q9,Rmg Wool,2459,Congo D. Rep.,0.0
+Q9,Rmg Wool,3011,Angola,2.0
+Q9,Rmg Wool,3041,Botswana,3.0
+Q9,Rmg Wool,3085,Comoros,5.0
+Q9,Rmg Wool,3102,Djibouti,4.0
+Q9,Rmg Wool,3115,Ethiopia,25.0
+Q9,Rmg Wool,3149,Ghana,1.0
+Q9,Rmg Wool,3227,Lesotho,0.0
+Q9,Rmg Wool,3229,Liberia,1.0
+Q9,Rmg Wool,3243,Malawi,0.0
+Q9,Rmg Wool,3249,Mali,0.0
+Q9,Rmg Wool,3267,Mozambique,0.0
+Q9,Rmg Wool,3269,Namibia,0.0
+Q9,Rmg Wool,3291,Nigeria,51.0
+Q9,Rmg Wool,3339,Reunion,0.0
+Q9,Rmg Wool,3355,Seychelles,1.0
+Q9,Rmg Wool,3363,Somalia,0.0
+Q9,Rmg Wool,3461,Zambia,6.0
+Q9,Rmg Wool,4005,Algeria,4.0
+Q9,Rmg Wool,4111,Egypt A Rp,53.0
+Q9,Rmg Wool,4231,Libya,5.0
+Q9,Rmg Wool,4265,Morocco,7.0
+Q9,Rmg Wool,4365,South Africa,48.0
+Q9,Rmg Wool,4381,Sudan,9.0
+Q9,Rmg Wool,4407,Tunisia,0.0
+Q9,Rmg Wool,4463,Zimbabwe,0.0
+Q9,Rmg Wool,5059,Canada,364.0
+Q9,Rmg Wool,5423,U S A,3515.0
+Q9,Rmg Wool,6015,Argentina,5.0
+Q9,Rmg Wool,6043,Brazil,34.0
+Q9,Rmg Wool,6073,Chile,26.0
+Q9,Rmg Wool,6083,Colombia,5.0
+Q9,Rmg Wool,6317,Paraguay,0.0
+Q9,Rmg Wool,6319,Peru,4.0
+Q9,Rmg Wool,6427,Uruguay,5.0
+Q9,Rmg Wool,6433,Venezuela,0.0
+Q9,Rmg Wool,7013,Antigua,0.0
+Q9,Rmg Wool,7020,Aruba,0.0
+Q9,Rmg Wool,7023,Bahamas,0.0
+Q9,Rmg Wool,7029,Barbados,0.0
+Q9,Rmg Wool,7031,Belize,0.0
+Q9,Rmg Wool,7171,Guyana,0.0
+Q9,Rmg Wool,7203,Jamaica,0.0
+Q9,Rmg Wool,7375,St Lucia,0.0
+Q9,Rmg Wool,7405,Trinidad,5.0
+Q9,Rmg Wool,8091,Costa Rica,0.0
+Q9,Rmg Wool,8165,Guatemala,1.0
+Q9,Rmg Wool,9037,Bermuda,0.0
+Q9,Rmg Wool,9065,Cayman Is,0.0
+Q9,Rmg Wool,9103,Dominic Rep,0.0
+Q9,Rmg Wool,9161,Guadeloupe,1.0
+Q9,Rmg Wool,9253,Martinique,0.0
+Q9,Rmg Wool,9259,Mexico,48.0
+Q9,Rmg Wool,9277,Netherlandantil,7.0
+Q9,Rmg Wool,9311,Panama Republic,8.0
+Q9,Rmg Wool,9383,Suriname,3.0
+Q9,Rmg Wool,9439,Virgin Is Us,1.0
+Q9,Rmg Wool,10001,Afghanistan,78.0
+Q9,Rmg Wool,10017,Australia,150.0
+Q9,Rmg Wool,10027,Bangladesh Pr,26.0
+Q9,Rmg Wool,10047,Brunei,1.0
+Q9,Rmg Wool,10056,Cambodia,0.0
+Q9,Rmg Wool,10077,China P Rp,68.0
+Q9,Rmg Wool,10127,Fiji Is,0.0
+Q9,Rmg Wool,10179,Hong Kong,164.0
+Q9,Rmg Wool,10187,Indonesia,4.0
+Q9,Rmg Wool,10189,Iran,6.0
+Q9,Rmg Wool,10205,Japan,447.0
+Q9,Rmg Wool,10217,Korea Rp,57.0
+Q9,Rmg Wool,10245,Malaysia,230.0
+Q9,Rmg Wool,10261,Mongolia,0.0
+Q9,Rmg Wool,10273,Nepal,21.0
+Q9,Rmg Wool,10285,New Zealand,8.0
+Q9,Rmg Wool,10309,Pakistan Ir,2.0
+Q9,Rmg Wool,10315,Papua N Gna,0.0
+Q9,Rmg Wool,10323,Philippines,0.0
+Q9,Rmg Wool,10359,Singapore,49.0
+Q9,Rmg Wool,10369,Sri Lanka Dsr,23.0
+Q9,Rmg Wool,10397,Thailand,43.0
+Q9,Rmg Wool,10437,Vietnam Soc Rep,3.0
+Q9,Rmg Wool,11025,Baharain Is,8.0
+Q9,Rmg Wool,11191,Iraq,9.0
+Q9,Rmg Wool,11207,Jordan,9.0
+Q9,Rmg Wool,11219,Kuwait,53.0
+Q9,Rmg Wool,11225,Lebanon,11.0
+Q9,Rmg Wool,11301,Oman,183.0
+Q9,Rmg Wool,11335,Qatar,20.0
+Q9,Rmg Wool,11351,Saudi Arab,129.0
+Q9,Rmg Wool,11419,U Arab Emts,1457.0
+Q9,Rmg Wool,11453,Yemen Republc,36.0
+Q9,Rmg Wool,12075,Taiwan,23.0
+Q9,Rmg Wool,12133,Fr Polynesia,0.0
+Q9,Rmg Wool,12163,Guam,0.0
+Q9,Rmg Wool,12195,Israel,13.0
+Q9,Rmg Wool,12215,Korea Dp Rp,3.0
+Q9,Rmg Wool,12239,Macao,0.0
+Q9,Rmg Wool,12247,Maldives,1.0
+Q9,Rmg Wool,13019,Austria,17.0
+Q9,Rmg Wool,13033,Belgium,132.0
+Q9,Rmg Wool,13101,Denmark,224.0
+Q9,Rmg Wool,13125,Finland,37.0
+Q9,Rmg Wool,13129,France,837.0
+Q9,Rmg Wool,13147,Germany,944.0
+Q9,Rmg Wool,13155,Greece,10.0
+Q9,Rmg Wool,13193,Ireland,17.0
+Q9,Rmg Wool,13197,Italy,556.0
+Q9,Rmg Wool,13235,Luxembourg,1.0
+Q9,Rmg Wool,13262,Monaco,0.0
+Q9,Rmg Wool,13275,Netherland,315.0
+Q9,Rmg Wool,13327,Portugal,51.0
+Q9,Rmg Wool,13367,Spain,388.0
+Q9,Rmg Wool,13387,Sweden,66.0
+Q9,Rmg Wool,13421,U K,1120.0
+Q9,Rmg Wool,14185,Iceland,1.0
+Q9,Rmg Wool,14297,Norway,53.0
+Q9,Rmg Wool,14389,Switzerland,63.0
+Q9,Rmg Wool,15003,Albania,0.0
+Q9,Rmg Wool,15016,Armenia,0.0
+Q9,Rmg Wool,15021,Azerbaijan,13.0
+Q9,Rmg Wool,15040,Bosnia-Hrzgovin,0.0
+Q9,Rmg Wool,15049,Bulgaria,0.0
+Q9,Rmg Wool,15092,Croatia,3.0
+Q9,Rmg Wool,15098,Czech Republic,65.0
+Q9,Rmg Wool,15114,Estonia,6.0
+Q9,Rmg Wool,15145,Georgia,3.0
+Q9,Rmg Wool,15181,Hungary,1.0
+Q9,Rmg Wool,15212,Kazakhstan,142.0
+Q9,Rmg Wool,15216,Kyrghyzstan,3.0
+Q9,Rmg Wool,15224,Latvia,7.0
+Q9,Rmg Wool,15234,Lithuania,1.0
+Q9,Rmg Wool,15260,Moldova,0.0
+Q9,Rmg Wool,15325,Poland,34.0
+Q9,Rmg Wool,15343,Romania,2.0
+Q9,Rmg Wool,15344,Russia,26.0
+Q9,Rmg Wool,15352,Serbia,1.0
+Q9,Rmg Wool,15354,Serbia Montngro,0.0
+Q9,Rmg Wool,15358,Slovak Rep,4.0
+Q9,Rmg Wool,15360,Slovenia,1.0
+Q9,Rmg Wool,15393,Tajikistan,0.0
+Q9,Rmg Wool,15422,Ukraine,0.0
+Q9,Rmg Wool,15430,Uzbekistan,47.0
+Q9,Rmg Wool,16095,Cyprus,1.0
+Q9,Rmg Wool,16151,Gibraltar,0.0
+Q9,Rmg Wool,16251,Malta,0.0
+Q9,Rmg Wool,16409,Turkey,87.0
+R1,Rmg Of Othr Textle Matrl,1213,Kenya,102.0
+R1,Rmg Of Othr Textle Matrl,1395,Tanzania Rep,154.0
+R1,Rmg Of Othr Textle Matrl,1417,Uganda,60.0
+R1,Rmg Of Othr Textle Matrl,2035,Benin,96.0
+R1,Rmg Of Othr Textle Matrl,2050,Burkina Faso,1.0
+R1,Rmg Of Othr Textle Matrl,2057,Cameroon,782.0
+R1,Rmg Of Othr Textle Matrl,2067,C Afri Rep,0.0
+R1,Rmg Of Othr Textle Matrl,2069,Chad,10.0
+R1,Rmg Of Othr Textle Matrl,2087,Congo P Rep,6.0
+R1,Rmg Of Othr Textle Matrl,2141,Gabon,1.0
+R1,Rmg Of Othr Textle Matrl,2199,Cote D' Ivoire,0.0
+R1,Rmg Of Othr Textle Matrl,2241,Madagascar,787.0
+R1,Rmg Of Othr Textle Matrl,2255,Mauritania,2.0
+R1,Rmg Of Othr Textle Matrl,2257,Mauritius,1443.0
+R1,Rmg Of Othr Textle Matrl,2289,Niger,19.0
+R1,Rmg Of Othr Textle Matrl,2345,Rwanda,100.0
+R1,Rmg Of Othr Textle Matrl,2353,Senegal,698.0
+R1,Rmg Of Othr Textle Matrl,2399,Togo,60.0
+R1,Rmg Of Othr Textle Matrl,2459,Congo D. Rep.,5.0
+R1,Rmg Of Othr Textle Matrl,3011,Angola,34.0
+R1,Rmg Of Othr Textle Matrl,3041,Botswana,9.0
+R1,Rmg Of Othr Textle Matrl,3053,Burundi,0.0
+R1,Rmg Of Othr Textle Matrl,3085,Comoros,12.0
+R1,Rmg Of Othr Textle Matrl,3102,Djibouti,86.0
+R1,Rmg Of Othr Textle Matrl,3115,Ethiopia,1036.0
+R1,Rmg Of Othr Textle Matrl,3116,Eritrea,13.0
+R1,Rmg Of Othr Textle Matrl,3117,Equtl Guinea,2.0
+R1,Rmg Of Othr Textle Matrl,3143,Gambia,3.0
+R1,Rmg Of Othr Textle Matrl,3149,Ghana,171.0
+R1,Rmg Of Othr Textle Matrl,3167,Guinea,4.0
+R1,Rmg Of Othr Textle Matrl,3169,Guinea Bissau,0.0
+R1,Rmg Of Othr Textle Matrl,3227,Lesotho,6.0
+R1,Rmg Of Othr Textle Matrl,3229,Liberia,7.0
+R1,Rmg Of Othr Textle Matrl,3243,Malawi,10.0
+R1,Rmg Of Othr Textle Matrl,3249,Mali,44.0
+R1,Rmg Of Othr Textle Matrl,3267,Mozambique,70.0
+R1,Rmg Of Othr Textle Matrl,3269,Namibia,104.0
+R1,Rmg Of Othr Textle Matrl,3291,Nigeria,411.0
+R1,Rmg Of Othr Textle Matrl,3339,Reunion,8.0
+R1,Rmg Of Othr Textle Matrl,3355,Seychelles,3.0
+R1,Rmg Of Othr Textle Matrl,3357,Sierra Leone,5.0
+R1,Rmg Of Othr Textle Matrl,3363,Somalia,190.0
+R1,Rmg Of Othr Textle Matrl,3385,Swaziland,7.0
+R1,Rmg Of Othr Textle Matrl,3461,Zambia,133.0
+R1,Rmg Of Othr Textle Matrl,4005,Algeria,40.0
+R1,Rmg Of Othr Textle Matrl,4111,Egypt A Rp,155.0
+R1,Rmg Of Othr Textle Matrl,4231,Libya,75.0
+R1,Rmg Of Othr Textle Matrl,4265,Morocco,67.0
+R1,Rmg Of Othr Textle Matrl,4365,South Africa,1068.0
+R1,Rmg Of Othr Textle Matrl,4381,Sudan,1157.0
+R1,Rmg Of Othr Textle Matrl,4407,Tunisia,2.0
+R1,Rmg Of Othr Textle Matrl,4463,Zimbabwe,458.0
+R1,Rmg Of Othr Textle Matrl,5059,Canada,1563.0
+R1,Rmg Of Othr Textle Matrl,5423,U S A,25003.0
+R1,Rmg Of Othr Textle Matrl,6015,Argentina,43.0
+R1,Rmg Of Othr Textle Matrl,6039,Bolivia,1.0
+R1,Rmg Of Othr Textle Matrl,6043,Brazil,608.0
+R1,Rmg Of Othr Textle Matrl,6073,Chile,154.0
+R1,Rmg Of Othr Textle Matrl,6083,Colombia,66.0
+R1,Rmg Of Othr Textle Matrl,6109,Ecuador,1.0
+R1,Rmg Of Othr Textle Matrl,6317,Paraguay,1.0
+R1,Rmg Of Othr Textle Matrl,6319,Peru,87.0
+R1,Rmg Of Othr Textle Matrl,6427,Uruguay,27.0
+R1,Rmg Of Othr Textle Matrl,6433,Venezuela,26.0
+R1,Rmg Of Othr Textle Matrl,7013,Antigua,1.0
+R1,Rmg Of Othr Textle Matrl,7020,Aruba,0.0
+R1,Rmg Of Othr Textle Matrl,7023,Bahamas,0.0
+R1,Rmg Of Othr Textle Matrl,7029,Barbados,3.0
+R1,Rmg Of Othr Textle Matrl,7031,Belize,0.0
+R1,Rmg Of Othr Textle Matrl,7105,Dominica,0.0
+R1,Rmg Of Othr Textle Matrl,7171,Guyana,3.0
+R1,Rmg Of Othr Textle Matrl,7203,Jamaica,9.0
+R1,Rmg Of Othr Textle Matrl,7373,St Kitt N A,1.0
+R1,Rmg Of Othr Textle Matrl,7375,St Lucia,0.0
+R1,Rmg Of Othr Textle Matrl,7379,St Vincent,0.0
+R1,Rmg Of Othr Textle Matrl,7405,Trinidad,77.0
+R1,Rmg Of Othr Textle Matrl,8091,Costa Rica,21.0
+R1,Rmg Of Othr Textle Matrl,8113,El Salvador,19.0
+R1,Rmg Of Othr Textle Matrl,8165,Guatemala,1.0
+R1,Rmg Of Othr Textle Matrl,8177,Honduras,14.0
+R1,Rmg Of Othr Textle Matrl,8287,Nicaragua,0.0
+R1,Rmg Of Othr Textle Matrl,9037,Bermuda,0.0
+R1,Rmg Of Othr Textle Matrl,9045,Br Virgn Is,1.0
+R1,Rmg Of Othr Textle Matrl,9065,Cayman Is,0.0
+R1,Rmg Of Othr Textle Matrl,9103,Dominic Rep,17.0
+R1,Rmg Of Othr Textle Matrl,9161,Guadeloupe,3.0
+R1,Rmg Of Othr Textle Matrl,9175,Haiti,0.0
+R1,Rmg Of Othr Textle Matrl,9259,Mexico,801.0
+R1,Rmg Of Othr Textle Matrl,9277,Netherlandantil,73.0
+R1,Rmg Of Othr Textle Matrl,9311,Panama Republic,799.0
+R1,Rmg Of Othr Textle Matrl,9331,Puerto Rico,53.0
+R1,Rmg Of Othr Textle Matrl,9383,Suriname,8.0
+R1,Rmg Of Othr Textle Matrl,9439,Virgin Is Us,1.0
+R1,Rmg Of Othr Textle Matrl,10001,Afghanistan,765.0
+R1,Rmg Of Othr Textle Matrl,10017,Australia,518.0
+R1,Rmg Of Othr Textle Matrl,10027,Bangladesh Pr,1613.0
+R1,Rmg Of Othr Textle Matrl,10038,Bhutan,1.0
+R1,Rmg Of Othr Textle Matrl,10047,Brunei,7.0
+R1,Rmg Of Othr Textle Matrl,10056,Cambodia,1.0
+R1,Rmg Of Othr Textle Matrl,10077,China P Rp,187.0
+R1,Rmg Of Othr Textle Matrl,10089,Cook Is,1.0
+R1,Rmg Of Othr Textle Matrl,10127,Fiji Is,63.0
+R1,Rmg Of Othr Textle Matrl,10179,Hong Kong,296.0
+R1,Rmg Of Othr Textle Matrl,10187,Indonesia,10.0
+R1,Rmg Of Othr Textle Matrl,10189,Iran,240.0
+R1,Rmg Of Othr Textle Matrl,10205,Japan,618.0
+R1,Rmg Of Othr Textle Matrl,10217,Korea Rp,74.0
+R1,Rmg Of Othr Textle Matrl,10245,Malaysia,470.0
+R1,Rmg Of Othr Textle Matrl,10256,Micronesia,0.0
+R1,Rmg Of Othr Textle Matrl,10258,Myanmar,116.0
+R1,Rmg Of Othr Textle Matrl,10261,Mongolia,0.0
+R1,Rmg Of Othr Textle Matrl,10273,Nepal,283.0
+R1,Rmg Of Othr Textle Matrl,10285,New Zealand,103.0
+R1,Rmg Of Othr Textle Matrl,10309,Pakistan Ir,19.0
+R1,Rmg Of Othr Textle Matrl,10310,Palau,0.0
+R1,Rmg Of Othr Textle Matrl,10315,Papua N Gna,10.0
+R1,Rmg Of Othr Textle Matrl,10323,Philippines,40.0
+R1,Rmg Of Othr Textle Matrl,10359,Singapore,289.0
+R1,Rmg Of Othr Textle Matrl,10369,Sri Lanka Dsr,309.0
+R1,Rmg Of Othr Textle Matrl,10397,Thailand,25.0
+R1,Rmg Of Othr Textle Matrl,10403,Tonga,0.0
+R1,Rmg Of Othr Textle Matrl,10437,Vietnam Soc Rep,10.0
+R1,Rmg Of Othr Textle Matrl,10447,Samoa,1.0
+R1,Rmg Of Othr Textle Matrl,11025,Baharain Is,208.0
+R1,Rmg Of Othr Textle Matrl,11191,Iraq,21.0
+R1,Rmg Of Othr Textle Matrl,11207,Jordan,44.0
+R1,Rmg Of Othr Textle Matrl,11219,Kuwait,797.0
+R1,Rmg Of Othr Textle Matrl,11225,Lebanon,18.0
+R1,Rmg Of Othr Textle Matrl,11301,Oman,605.0
+R1,Rmg Of Othr Textle Matrl,11335,Qatar,212.0
+R1,Rmg Of Othr Textle Matrl,11351,Saudi Arab,2443.0
+R1,Rmg Of Othr Textle Matrl,11391,Syria,13.0
+R1,Rmg Of Othr Textle Matrl,11419,U Arab Emts,33761.0
+R1,Rmg Of Othr Textle Matrl,11453,Yemen Republc,1191.0
+R1,Rmg Of Othr Textle Matrl,12075,Taiwan,9.0
+R1,Rmg Of Othr Textle Matrl,12131,Fr Guiana,0.0
+R1,Rmg Of Othr Textle Matrl,12133,Fr Polynesia,5.0
+R1,Rmg Of Othr Textle Matrl,12163,Guam,0.0
+R1,Rmg Of Othr Textle Matrl,12195,Israel,447.0
+R1,Rmg Of Othr Textle Matrl,12215,Korea Dp Rp,3.0
+R1,Rmg Of Othr Textle Matrl,12239,Macao,0.0
+R1,Rmg Of Othr Textle Matrl,12247,Maldives,16.0
+R1,Rmg Of Othr Textle Matrl,12281,New Caledonia,2.0
+R1,Rmg Of Othr Textle Matrl,12431,Vanuatu Rep,6.0
+R1,Rmg Of Othr Textle Matrl,12443,Wallis F Is,1.0
+R1,Rmg Of Othr Textle Matrl,13019,Austria,336.0
+R1,Rmg Of Othr Textle Matrl,13033,Belgium,1589.0
+R1,Rmg Of Othr Textle Matrl,13101,Denmark,1094.0
+R1,Rmg Of Othr Textle Matrl,13125,Finland,260.0
+R1,Rmg Of Othr Textle Matrl,13129,France,6641.0
+R1,Rmg Of Othr Textle Matrl,13147,Germany,8480.0
+R1,Rmg Of Othr Textle Matrl,13155,Greece,129.0
+R1,Rmg Of Othr Textle Matrl,13193,Ireland,623.0
+R1,Rmg Of Othr Textle Matrl,13197,Italy,2476.0
+R1,Rmg Of Othr Textle Matrl,13235,Luxembourg,0.0
+R1,Rmg Of Othr Textle Matrl,13262,Monaco,0.0
+R1,Rmg Of Othr Textle Matrl,13275,Netherland,2991.0
+R1,Rmg Of Othr Textle Matrl,13327,Portugal,122.0
+R1,Rmg Of Othr Textle Matrl,13367,Spain,2799.0
+R1,Rmg Of Othr Textle Matrl,13387,Sweden,1012.0
+R1,Rmg Of Othr Textle Matrl,13421,U K,10545.0
+R1,Rmg Of Othr Textle Matrl,14121,Faroe Is.,0.0
+R1,Rmg Of Othr Textle Matrl,14185,Iceland,4.0
+R1,Rmg Of Othr Textle Matrl,14297,Norway,287.0
+R1,Rmg Of Othr Textle Matrl,14389,Switzerland,363.0
+R1,Rmg Of Othr Textle Matrl,15003,Albania,0.0
+R1,Rmg Of Othr Textle Matrl,15016,Armenia,623.0
+R1,Rmg Of Othr Textle Matrl,15021,Azerbaijan,531.0
+R1,Rmg Of Othr Textle Matrl,15040,Bosnia-Hrzgovin,1.0
+R1,Rmg Of Othr Textle Matrl,15049,Bulgaria,3.0
+R1,Rmg Of Othr Textle Matrl,15055,Belarus,19.0
+R1,Rmg Of Othr Textle Matrl,15092,Croatia,6.0
+R1,Rmg Of Othr Textle Matrl,15098,Czech Republic,115.0
+R1,Rmg Of Othr Textle Matrl,15114,Estonia,262.0
+R1,Rmg Of Othr Textle Matrl,15145,Georgia,21.0
+R1,Rmg Of Othr Textle Matrl,15181,Hungary,9.0
+R1,Rmg Of Othr Textle Matrl,15212,Kazakhstan,978.0
+R1,Rmg Of Othr Textle Matrl,15216,Kyrghyzstan,140.0
+R1,Rmg Of Othr Textle Matrl,15224,Latvia,8.0
+R1,Rmg Of Othr Textle Matrl,15234,Lithuania,3.0
+R1,Rmg Of Othr Textle Matrl,15260,Moldova,0.0
+R1,Rmg Of Othr Textle Matrl,15325,Poland,1172.0
+R1,Rmg Of Othr Textle Matrl,15343,Romania,30.0
+R1,Rmg Of Othr Textle Matrl,15344,Russia,310.0
+R1,Rmg Of Othr Textle Matrl,15352,Serbia,2.0
+R1,Rmg Of Othr Textle Matrl,15354,Serbia Montngro,2.0
+R1,Rmg Of Othr Textle Matrl,15356,Montenegro,1.0
+R1,Rmg Of Othr Textle Matrl,15358,Slovak Rep,144.0
+R1,Rmg Of Othr Textle Matrl,15360,Slovenia,87.0
+R1,Rmg Of Othr Textle Matrl,15393,Tajikistan,129.0
+R1,Rmg Of Othr Textle Matrl,15410,Turkmenistan,0.0
+R1,Rmg Of Othr Textle Matrl,15422,Ukraine,5.0
+R1,Rmg Of Othr Textle Matrl,15430,Uzbekistan,1180.0
+R1,Rmg Of Othr Textle Matrl,16095,Cyprus,9.0
+R1,Rmg Of Othr Textle Matrl,16151,Gibraltar,0.0
+R1,Rmg Of Othr Textle Matrl,16251,Malta,0.0
+R1,Rmg Of Othr Textle Matrl,16409,Turkey,94.0
+R2,Coir And Coir Manufactures,1213,Kenya,36.0
+R2,Coir And Coir Manufactures,1395,Tanzania Rep,6.0
+R2,Coir And Coir Manufactures,1417,Uganda,0.0
+R2,Coir And Coir Manufactures,2035,Benin,2.0
+R2,Coir And Coir Manufactures,2050,Burkina Faso,0.0
+R2,Coir And Coir Manufactures,2057,Cameroon,3.0
+R2,Coir And Coir Manufactures,2087,Congo P Rep,3.0
+R2,Coir And Coir Manufactures,2199,Cote D' Ivoire,1.0
+R2,Coir And Coir Manufactures,2241,Madagascar,0.0
+R2,Coir And Coir Manufactures,2257,Mauritius,3.0
+R2,Coir And Coir Manufactures,2353,Senegal,1.0
+R2,Coir And Coir Manufactures,2459,Congo D. Rep.,0.0
+R2,Coir And Coir Manufactures,3011,Angola,3.0
+R2,Coir And Coir Manufactures,3041,Botswana,0.0
+R2,Coir And Coir Manufactures,3063,Cape Verde Is,0.0
+R2,Coir And Coir Manufactures,3102,Djibouti,2.0
+R2,Coir And Coir Manufactures,3115,Ethiopia,2.0
+R2,Coir And Coir Manufactures,3149,Ghana,4.0
+R2,Coir And Coir Manufactures,3229,Liberia,0.0
+R2,Coir And Coir Manufactures,3267,Mozambique,0.0
+R2,Coir And Coir Manufactures,3269,Namibia,0.0
+R2,Coir And Coir Manufactures,3291,Nigeria,18.0
+R2,Coir And Coir Manufactures,3355,Seychelles,0.0
+R2,Coir And Coir Manufactures,3461,Zambia,2.0
+R2,Coir And Coir Manufactures,4005,Algeria,2.0
+R2,Coir And Coir Manufactures,4111,Egypt A Rp,39.0
+R2,Coir And Coir Manufactures,4231,Libya,33.0
+R2,Coir And Coir Manufactures,4265,Morocco,23.0
+R2,Coir And Coir Manufactures,4365,South Africa,75.0
+R2,Coir And Coir Manufactures,4381,Sudan,0.0
+R2,Coir And Coir Manufactures,4407,Tunisia,3.0
+R2,Coir And Coir Manufactures,4463,Zimbabwe,1.0
+R2,Coir And Coir Manufactures,5059,Canada,190.0
+R2,Coir And Coir Manufactures,5423,U S A,2735.0
+R2,Coir And Coir Manufactures,6015,Argentina,14.0
+R2,Coir And Coir Manufactures,6039,Bolivia,0.0
+R2,Coir And Coir Manufactures,6043,Brazil,115.0
+R2,Coir And Coir Manufactures,6073,Chile,47.0
+R2,Coir And Coir Manufactures,6083,Colombia,9.0
+R2,Coir And Coir Manufactures,6109,Ecuador,9.0
+R2,Coir And Coir Manufactures,6317,Paraguay,2.0
+R2,Coir And Coir Manufactures,6319,Peru,6.0
+R2,Coir And Coir Manufactures,6427,Uruguay,12.0
+R2,Coir And Coir Manufactures,6433,Venezuela,5.0
+R2,Coir And Coir Manufactures,7023,Bahamas,2.0
+R2,Coir And Coir Manufactures,7029,Barbados,0.0
+R2,Coir And Coir Manufactures,7203,Jamaica,1.0
+R2,Coir And Coir Manufactures,7405,Trinidad,1.0
+R2,Coir And Coir Manufactures,8091,Costa Rica,9.0
+R2,Coir And Coir Manufactures,8113,El Salvador,3.0
+R2,Coir And Coir Manufactures,8165,Guatemala,3.0
+R2,Coir And Coir Manufactures,8177,Honduras,2.0
+R2,Coir And Coir Manufactures,9103,Dominic Rep,3.0
+R2,Coir And Coir Manufactures,9161,Guadeloupe,0.0
+R2,Coir And Coir Manufactures,9253,Martinique,2.0
+R2,Coir And Coir Manufactures,9259,Mexico,44.0
+R2,Coir And Coir Manufactures,9311,Panama Republic,6.0
+R2,Coir And Coir Manufactures,9331,Puerto Rico,5.0
+R2,Coir And Coir Manufactures,9383,Suriname,1.0
+R2,Coir And Coir Manufactures,10001,Afghanistan,0.0
+R2,Coir And Coir Manufactures,10017,Australia,371.0
+R2,Coir And Coir Manufactures,10027,Bangladesh Pr,1.0
+R2,Coir And Coir Manufactures,10047,Brunei,0.0
+R2,Coir And Coir Manufactures,10056,Cambodia,0.0
+R2,Coir And Coir Manufactures,10077,China P Rp,3485.0
+R2,Coir And Coir Manufactures,10127,Fiji Is,0.0
+R2,Coir And Coir Manufactures,10179,Hong Kong,5.0
+R2,Coir And Coir Manufactures,10187,Indonesia,2.0
+R2,Coir And Coir Manufactures,10189,Iran,21.0
+R2,Coir And Coir Manufactures,10205,Japan,122.0
+R2,Coir And Coir Manufactures,10217,Korea Rp,656.0
+R2,Coir And Coir Manufactures,10245,Malaysia,58.0
+R2,Coir And Coir Manufactures,10261,Mongolia,0.0
+R2,Coir And Coir Manufactures,10273,Nepal,43.0
+R2,Coir And Coir Manufactures,10285,New Zealand,43.0
+R2,Coir And Coir Manufactures,10309,Pakistan Ir,0.0
+R2,Coir And Coir Manufactures,10315,Papua N Gna,0.0
+R2,Coir And Coir Manufactures,10323,Philippines,2.0
+R2,Coir And Coir Manufactures,10359,Singapore,11.0
+R2,Coir And Coir Manufactures,10369,Sri Lanka Dsr,2.0
+R2,Coir And Coir Manufactures,10397,Thailand,4.0
+R2,Coir And Coir Manufactures,10437,Vietnam Soc Rep,10.0
+R2,Coir And Coir Manufactures,11025,Baharain Is,3.0
+R2,Coir And Coir Manufactures,11207,Jordan,11.0
+R2,Coir And Coir Manufactures,11219,Kuwait,28.0
+R2,Coir And Coir Manufactures,11225,Lebanon,14.0
+R2,Coir And Coir Manufactures,11301,Oman,8.0
+R2,Coir And Coir Manufactures,11335,Qatar,13.0
+R2,Coir And Coir Manufactures,11351,Saudi Arab,53.0
+R2,Coir And Coir Manufactures,11391,Syria,1.0
+R2,Coir And Coir Manufactures,11419,U Arab Emts,104.0
+R2,Coir And Coir Manufactures,11453,Yemen Republc,0.0
+R2,Coir And Coir Manufactures,12075,Taiwan,16.0
+R2,Coir And Coir Manufactures,12133,Fr Polynesia,0.0
+R2,Coir And Coir Manufactures,12195,Israel,72.0
+R2,Coir And Coir Manufactures,12215,Korea Dp Rp,1.0
+R2,Coir And Coir Manufactures,12247,Maldives,4.0
+R2,Coir And Coir Manufactures,12281,New Caledonia,1.0
+R2,Coir And Coir Manufactures,13019,Austria,6.0
+R2,Coir And Coir Manufactures,13033,Belgium,119.0
+R2,Coir And Coir Manufactures,13101,Denmark,31.0
+R2,Coir And Coir Manufactures,13125,Finland,9.0
+R2,Coir And Coir Manufactures,13129,France,265.0
+R2,Coir And Coir Manufactures,13147,Germany,478.0
+R2,Coir And Coir Manufactures,13155,Greece,65.0
+R2,Coir And Coir Manufactures,13193,Ireland,24.0
+R2,Coir And Coir Manufactures,13197,Italy,449.0
+R2,Coir And Coir Manufactures,13235,Luxembourg,0.0
+R2,Coir And Coir Manufactures,13275,Netherland,868.0
+R2,Coir And Coir Manufactures,13327,Portugal,39.0
+R2,Coir And Coir Manufactures,13367,Spain,320.0
+R2,Coir And Coir Manufactures,13387,Sweden,66.0
+R2,Coir And Coir Manufactures,13421,U K,638.0
+R2,Coir And Coir Manufactures,14297,Norway,17.0
+R2,Coir And Coir Manufactures,14389,Switzerland,12.0
+R2,Coir And Coir Manufactures,15003,Albania,0.0
+R2,Coir And Coir Manufactures,15016,Armenia,3.0
+R2,Coir And Coir Manufactures,15021,Azerbaijan,0.0
+R2,Coir And Coir Manufactures,15049,Bulgaria,6.0
+R2,Coir And Coir Manufactures,15092,Croatia,12.0
+R2,Coir And Coir Manufactures,15098,Czech Republic,9.0
+R2,Coir And Coir Manufactures,15114,Estonia,3.0
+R2,Coir And Coir Manufactures,15145,Georgia,2.0
+R2,Coir And Coir Manufactures,15181,Hungary,32.0
+R2,Coir And Coir Manufactures,15212,Kazakhstan,3.0
+R2,Coir And Coir Manufactures,15224,Latvia,25.0
+R2,Coir And Coir Manufactures,15234,Lithuania,3.0
+R2,Coir And Coir Manufactures,15260,Moldova,0.0
+R2,Coir And Coir Manufactures,15325,Poland,80.0
+R2,Coir And Coir Manufactures,15343,Romania,22.0
+R2,Coir And Coir Manufactures,15344,Russia,166.0
+R2,Coir And Coir Manufactures,15358,Slovak Rep,1.0
+R2,Coir And Coir Manufactures,15360,Slovenia,11.0
+R2,Coir And Coir Manufactures,15422,Ukraine,7.0
+R2,Coir And Coir Manufactures,16095,Cyprus,8.0
+R2,Coir And Coir Manufactures,16409,Turkey,84.0
+R3,Handloom Products,1213,Kenya,4.0
+R3,Handloom Products,1395,Tanzania Rep,38.0
+R3,Handloom Products,1417,Uganda,5.0
+R3,Handloom Products,2035,Benin,4.0
+R3,Handloom Products,2050,Burkina Faso,0.0
+R3,Handloom Products,2057,Cameroon,0.0
+R3,Handloom Products,2069,Chad,0.0
+R3,Handloom Products,2087,Congo P Rep,0.0
+R3,Handloom Products,2199,Cote D' Ivoire,3.0
+R3,Handloom Products,2255,Mauritania,7.0
+R3,Handloom Products,2257,Mauritius,11.0
+R3,Handloom Products,2345,Rwanda,78.0
+R3,Handloom Products,2353,Senegal,2.0
+R3,Handloom Products,2399,Togo,48.0
+R3,Handloom Products,2459,Congo D. Rep.,0.0
+R3,Handloom Products,3011,Angola,7.0
+R3,Handloom Products,3041,Botswana,0.0
+R3,Handloom Products,3063,Cape Verde Is,0.0
+R3,Handloom Products,3085,Comoros,6.0
+R3,Handloom Products,3102,Djibouti,0.0
+R3,Handloom Products,3117,Equtl Guinea,1.0
+R3,Handloom Products,3143,Gambia,0.0
+R3,Handloom Products,3149,Ghana,5.0
+R3,Handloom Products,3167,Guinea,0.0
+R3,Handloom Products,3227,Lesotho,0.0
+R3,Handloom Products,3243,Malawi,0.0
+R3,Handloom Products,3249,Mali,200.0
+R3,Handloom Products,3267,Mozambique,7.0
+R3,Handloom Products,3269,Namibia,0.0
+R3,Handloom Products,3291,Nigeria,66.0
+R3,Handloom Products,3339,Reunion,13.0
+R3,Handloom Products,3355,Seychelles,1.0
+R3,Handloom Products,3363,Somalia,0.0
+R3,Handloom Products,3385,Swaziland,0.0
+R3,Handloom Products,3461,Zambia,11.0
+R3,Handloom Products,4005,Algeria,17.0
+R3,Handloom Products,4111,Egypt A Rp,31.0
+R3,Handloom Products,4231,Libya,11.0
+R3,Handloom Products,4265,Morocco,3.0
+R3,Handloom Products,4365,South Africa,289.0
+R3,Handloom Products,4381,Sudan,24.0
+R3,Handloom Products,4407,Tunisia,1.0
+R3,Handloom Products,4463,Zimbabwe,0.0
+R3,Handloom Products,5059,Canada,222.0
+R3,Handloom Products,5423,U S A,4787.0
+R3,Handloom Products,6015,Argentina,48.0
+R3,Handloom Products,6043,Brazil,322.0
+R3,Handloom Products,6073,Chile,194.0
+R3,Handloom Products,6083,Colombia,43.0
+R3,Handloom Products,6109,Ecuador,5.0
+R3,Handloom Products,6317,Paraguay,1.0
+R3,Handloom Products,6319,Peru,36.0
+R3,Handloom Products,6427,Uruguay,26.0
+R3,Handloom Products,6433,Venezuela,2.0
+R3,Handloom Products,7023,Bahamas,0.0
+R3,Handloom Products,7029,Barbados,0.0
+R3,Handloom Products,7031,Belize,0.0
+R3,Handloom Products,7171,Guyana,0.0
+R3,Handloom Products,7203,Jamaica,0.0
+R3,Handloom Products,7405,Trinidad,12.0
+R3,Handloom Products,8091,Costa Rica,10.0
+R3,Handloom Products,8165,Guatemala,3.0
+R3,Handloom Products,9037,Bermuda,0.0
+R3,Handloom Products,9103,Dominic Rep,6.0
+R3,Handloom Products,9259,Mexico,98.0
+R3,Handloom Products,9277,Netherlandantil,9.0
+R3,Handloom Products,9311,Panama Republic,32.0
+R3,Handloom Products,9331,Puerto Rico,12.0
+R3,Handloom Products,9383,Suriname,3.0
+R3,Handloom Products,10001,Afghanistan,15.0
+R3,Handloom Products,10017,Australia,645.0
+R3,Handloom Products,10027,Bangladesh Pr,1.0
+R3,Handloom Products,10047,Brunei,0.0
+R3,Handloom Products,10056,Cambodia,30.0
+R3,Handloom Products,10077,China P Rp,43.0
+R3,Handloom Products,10127,Fiji Is,2.0
+R3,Handloom Products,10179,Hong Kong,10.0
+R3,Handloom Products,10187,Indonesia,8.0
+R3,Handloom Products,10189,Iran,26.0
+R3,Handloom Products,10205,Japan,507.0
+R3,Handloom Products,10217,Korea Rp,250.0
+R3,Handloom Products,10245,Malaysia,204.0
+R3,Handloom Products,10258,Myanmar,0.0
+R3,Handloom Products,10261,Mongolia,3.0
+R3,Handloom Products,10273,Nepal,4.0
+R3,Handloom Products,10285,New Zealand,69.0
+R3,Handloom Products,10315,Papua N Gna,1.0
+R3,Handloom Products,10323,Philippines,52.0
+R3,Handloom Products,10359,Singapore,29.0
+R3,Handloom Products,10369,Sri Lanka Dsr,137.0
+R3,Handloom Products,10397,Thailand,36.0
+R3,Handloom Products,10437,Vietnam Soc Rep,1.0
+R3,Handloom Products,11025,Baharain Is,1.0
+R3,Handloom Products,11191,Iraq,1.0
+R3,Handloom Products,11207,Jordan,10.0
+R3,Handloom Products,11219,Kuwait,20.0
+R3,Handloom Products,11225,Lebanon,9.0
+R3,Handloom Products,11301,Oman,2.0
+R3,Handloom Products,11335,Qatar,2.0
+R3,Handloom Products,11351,Saudi Arab,340.0
+R3,Handloom Products,11391,Syria,0.0
+R3,Handloom Products,11419,U Arab Emts,285.0
+R3,Handloom Products,11453,Yemen Republc,17.0
+R3,Handloom Products,12075,Taiwan,19.0
+R3,Handloom Products,12131,Fr Guiana,0.0
+R3,Handloom Products,12133,Fr Polynesia,1.0
+R3,Handloom Products,12195,Israel,82.0
+R3,Handloom Products,12215,Korea Dp Rp,1.0
+R3,Handloom Products,12239,Macao,0.0
+R3,Handloom Products,12247,Maldives,3.0
+R3,Handloom Products,12281,New Caledonia,0.0
+R3,Handloom Products,13019,Austria,71.0
+R3,Handloom Products,13033,Belgium,192.0
+R3,Handloom Products,13101,Denmark,166.0
+R3,Handloom Products,13125,Finland,85.0
+R3,Handloom Products,13129,France,660.0
+R3,Handloom Products,13147,Germany,1130.0
+R3,Handloom Products,13155,Greece,136.0
+R3,Handloom Products,13193,Ireland,43.0
+R3,Handloom Products,13197,Italy,699.0
+R3,Handloom Products,13262,Monaco,1.0
+R3,Handloom Products,13275,Netherland,451.0
+R3,Handloom Products,13327,Portugal,162.0
+R3,Handloom Products,13367,Spain,368.0
+R3,Handloom Products,13387,Sweden,391.0
+R3,Handloom Products,13421,U K,1318.0
+R3,Handloom Products,14185,Iceland,0.0
+R3,Handloom Products,14297,Norway,246.0
+R3,Handloom Products,14389,Switzerland,50.0
+R3,Handloom Products,15016,Armenia,0.0
+R3,Handloom Products,15021,Azerbaijan,0.0
+R3,Handloom Products,15040,Bosnia-Hrzgovin,35.0
+R3,Handloom Products,15049,Bulgaria,1.0
+R3,Handloom Products,15055,Belarus,0.0
+R3,Handloom Products,15092,Croatia,48.0
+R3,Handloom Products,15098,Czech Republic,22.0
+R3,Handloom Products,15114,Estonia,5.0
+R3,Handloom Products,15145,Georgia,8.0
+R3,Handloom Products,15181,Hungary,7.0
+R3,Handloom Products,15212,Kazakhstan,23.0
+R3,Handloom Products,15216,Kyrghyzstan,0.0
+R3,Handloom Products,15224,Latvia,25.0
+R3,Handloom Products,15234,Lithuania,10.0
+R3,Handloom Products,15240,Macedonia,0.0
+R3,Handloom Products,15325,Poland,210.0
+R3,Handloom Products,15343,Romania,14.0
+R3,Handloom Products,15344,Russia,90.0
+R3,Handloom Products,15352,Serbia,5.0
+R3,Handloom Products,15354,Serbia Montngro,0.0
+R3,Handloom Products,15358,Slovak Rep,26.0
+R3,Handloom Products,15360,Slovenia,15.0
+R3,Handloom Products,15393,Tajikistan,0.0
+R3,Handloom Products,15422,Ukraine,2.0
+R3,Handloom Products,15430,Uzbekistan,0.0
+R3,Handloom Products,16095,Cyprus,3.0
+R3,Handloom Products,16151,Gibraltar,0.0
+R3,Handloom Products,16251,Malta,5.0
+R3,Handloom Products,16409,Turkey,63.0
+R4,Silk Waste,5059,Canada,0.0
+R4,Silk Waste,5423,U S A,0.0
+R4,Silk Waste,10027,Bangladesh Pr,1.0
+R4,Silk Waste,10077,China P Rp,653.0
+R4,Silk Waste,10179,Hong Kong,3.0
+R4,Silk Waste,10205,Japan,0.0
+R4,Silk Waste,10309,Pakistan Ir,0.0
+R4,Silk Waste,10397,Thailand,52.0
+R4,Silk Waste,10437,Vietnam Soc Rep,30.0
+R4,Silk Waste,13147,Germany,0.0
+R4,Silk Waste,13197,Italy,54.0
+R4,Silk Waste,13275,Netherland,0.0
+R5,"Jute, Raw",3102,Djibouti,9.0
+R5,"Jute, Raw",3115,Ethiopia,1.0
+R5,"Jute, Raw",5423,U S A,1.0
+R5,"Jute, Raw",10205,Japan,0.0
+R5,"Jute, Raw",10273,Nepal,852.0
+R6,Jute Yarn,1213,Kenya,0.0
+R6,Jute Yarn,1395,Tanzania Rep,3.0
+R6,Jute Yarn,3102,Djibouti,9.0
+R6,Jute Yarn,3115,Ethiopia,2.0
+R6,Jute Yarn,3149,Ghana,5.0
+R6,Jute Yarn,3243,Malawi,0.0
+R6,Jute Yarn,3267,Mozambique,0.0
+R6,Jute Yarn,3291,Nigeria,14.0
+R6,Jute Yarn,4005,Algeria,17.0
+R6,Jute Yarn,4111,Egypt A Rp,95.0
+R6,Jute Yarn,4265,Morocco,8.0
+R6,Jute Yarn,4365,South Africa,0.0
+R6,Jute Yarn,4407,Tunisia,0.0
+R6,Jute Yarn,5059,Canada,2.0
+R6,Jute Yarn,5423,U S A,29.0
+R6,Jute Yarn,6015,Argentina,2.0
+R6,Jute Yarn,6043,Brazil,68.0
+R6,Jute Yarn,6073,Chile,0.0
+R6,Jute Yarn,6083,Colombia,1.0
+R6,Jute Yarn,6319,Peru,1.0
+R6,Jute Yarn,9103,Dominic Rep,0.0
+R6,Jute Yarn,9259,Mexico,5.0
+R6,Jute Yarn,10017,Australia,0.0
+R6,Jute Yarn,10077,China P Rp,0.0
+R6,Jute Yarn,10187,Indonesia,150.0
+R6,Jute Yarn,10189,Iran,2.0
+R6,Jute Yarn,10205,Japan,13.0
+R6,Jute Yarn,10217,Korea Rp,6.0
+R6,Jute Yarn,10245,Malaysia,2.0
+R6,Jute Yarn,10258,Myanmar,2.0
+R6,Jute Yarn,10261,Mongolia,6.0
+R6,Jute Yarn,10273,Nepal,0.0
+R6,Jute Yarn,10309,Pakistan Ir,3.0
+R6,Jute Yarn,10359,Singapore,0.0
+R6,Jute Yarn,10369,Sri Lanka Dsr,0.0
+R6,Jute Yarn,10397,Thailand,1.0
+R6,Jute Yarn,11191,Iraq,0.0
+R6,Jute Yarn,11207,Jordan,1.0
+R6,Jute Yarn,11219,Kuwait,3.0
+R6,Jute Yarn,11225,Lebanon,8.0
+R6,Jute Yarn,11301,Oman,1.0
+R6,Jute Yarn,11351,Saudi Arab,252.0
+R6,Jute Yarn,11419,U Arab Emts,1.0
+R6,Jute Yarn,12075,Taiwan,1.0
+R6,Jute Yarn,12195,Israel,2.0
+R6,Jute Yarn,12247,Maldives,1.0
+R6,Jute Yarn,13033,Belgium,208.0
+R6,Jute Yarn,13125,Finland,0.0
+R6,Jute Yarn,13129,France,0.0
+R6,Jute Yarn,13147,Germany,5.0
+R6,Jute Yarn,13197,Italy,5.0
+R6,Jute Yarn,13275,Netherland,1.0
+R6,Jute Yarn,13327,Portugal,0.0
+R6,Jute Yarn,13367,Spain,0.0
+R6,Jute Yarn,13387,Sweden,2.0
+R6,Jute Yarn,13421,U K,7.0
+R6,Jute Yarn,14185,Iceland,0.0
+R6,Jute Yarn,15055,Belarus,3.0
+R6,Jute Yarn,15098,Czech Republic,0.0
+R6,Jute Yarn,15325,Poland,1.0
+R6,Jute Yarn,15422,Ukraine,5.0
+R6,Jute Yarn,16409,Turkey,54.0
+R7,Jute Hessian,1213,Kenya,41.0
+R7,Jute Hessian,1395,Tanzania Rep,89.0
+R7,Jute Hessian,1417,Uganda,3.0
+R7,Jute Hessian,2035,Benin,0.0
+R7,Jute Hessian,2057,Cameroon,3.0
+R7,Jute Hessian,2069,Chad,0.0
+R7,Jute Hessian,2199,Cote D' Ivoire,270.0
+R7,Jute Hessian,2241,Madagascar,3.0
+R7,Jute Hessian,2257,Mauritius,1.0
+R7,Jute Hessian,2345,Rwanda,0.0
+R7,Jute Hessian,3085,Comoros,1.0
+R7,Jute Hessian,3102,Djibouti,0.0
+R7,Jute Hessian,3115,Ethiopia,0.0
+R7,Jute Hessian,3143,Gambia,6.0
+R7,Jute Hessian,3149,Ghana,0.0
+R7,Jute Hessian,3167,Guinea,11.0
+R7,Jute Hessian,3169,Guinea Bissau,3.0
+R7,Jute Hessian,3229,Liberia,1.0
+R7,Jute Hessian,3243,Malawi,65.0
+R7,Jute Hessian,3267,Mozambique,8.0
+R7,Jute Hessian,3291,Nigeria,2.0
+R7,Jute Hessian,3355,Seychelles,0.0
+R7,Jute Hessian,3357,Sierra Leone,1.0
+R7,Jute Hessian,3461,Zambia,49.0
+R7,Jute Hessian,4005,Algeria,27.0
+R7,Jute Hessian,4111,Egypt A Rp,128.0
+R7,Jute Hessian,4265,Morocco,4.0
+R7,Jute Hessian,4365,South Africa,45.0
+R7,Jute Hessian,4463,Zimbabwe,48.0
+R7,Jute Hessian,5059,Canada,140.0
+R7,Jute Hessian,5423,U S A,1167.0
+R7,Jute Hessian,6015,Argentina,13.0
+R7,Jute Hessian,6039,Bolivia,1.0
+R7,Jute Hessian,6043,Brazil,122.0
+R7,Jute Hessian,6073,Chile,10.0
+R7,Jute Hessian,6083,Colombia,4.0
+R7,Jute Hessian,6109,Ecuador,46.0
+R7,Jute Hessian,6319,Peru,28.0
+R7,Jute Hessian,6427,Uruguay,11.0
+R7,Jute Hessian,6433,Venezuela,3.0
+R7,Jute Hessian,7023,Bahamas,0.0
+R7,Jute Hessian,7105,Dominica,0.0
+R7,Jute Hessian,7203,Jamaica,1.0
+R7,Jute Hessian,8091,Costa Rica,4.0
+R7,Jute Hessian,8165,Guatemala,48.0
+R7,Jute Hessian,8177,Honduras,3.0
+R7,Jute Hessian,8287,Nicaragua,19.0
+R7,Jute Hessian,9103,Dominic Rep,4.0
+R7,Jute Hessian,9161,Guadeloupe,0.0
+R7,Jute Hessian,9253,Martinique,0.0
+R7,Jute Hessian,9259,Mexico,4.0
+R7,Jute Hessian,9277,Netherlandantil,0.0
+R7,Jute Hessian,9311,Panama Republic,0.0
+R7,Jute Hessian,9331,Puerto Rico,2.0
+R7,Jute Hessian,9383,Suriname,0.0
+R7,Jute Hessian,10017,Australia,176.0
+R7,Jute Hessian,10038,Bhutan,4.0
+R7,Jute Hessian,10077,China P Rp,7.0
+R7,Jute Hessian,10179,Hong Kong,0.0
+R7,Jute Hessian,10187,Indonesia,4.0
+R7,Jute Hessian,10189,Iran,71.0
+R7,Jute Hessian,10205,Japan,126.0
+R7,Jute Hessian,10217,Korea Rp,31.0
+R7,Jute Hessian,10245,Malaysia,11.0
+R7,Jute Hessian,10258,Myanmar,1.0
+R7,Jute Hessian,10273,Nepal,0.0
+R7,Jute Hessian,10285,New Zealand,100.0
+R7,Jute Hessian,10315,Papua N Gna,11.0
+R7,Jute Hessian,10323,Philippines,4.0
+R7,Jute Hessian,10359,Singapore,3.0
+R7,Jute Hessian,10369,Sri Lanka Dsr,6.0
+R7,Jute Hessian,10397,Thailand,10.0
+R7,Jute Hessian,11025,Baharain Is,10.0
+R7,Jute Hessian,11207,Jordan,15.0
+R7,Jute Hessian,11219,Kuwait,21.0
+R7,Jute Hessian,11225,Lebanon,11.0
+R7,Jute Hessian,11301,Oman,75.0
+R7,Jute Hessian,11335,Qatar,73.0
+R7,Jute Hessian,11351,Saudi Arab,239.0
+R7,Jute Hessian,11391,Syria,2.0
+R7,Jute Hessian,11419,U Arab Emts,256.0
+R7,Jute Hessian,11453,Yemen Republc,4.0
+R7,Jute Hessian,12075,Taiwan,1.0
+R7,Jute Hessian,12131,Fr Guiana,1.0
+R7,Jute Hessian,12195,Israel,9.0
+R7,Jute Hessian,12247,Maldives,12.0
+R7,Jute Hessian,12329,East Timor,1.0
+R7,Jute Hessian,13019,Austria,3.0
+R7,Jute Hessian,13033,Belgium,53.0
+R7,Jute Hessian,13101,Denmark,3.0
+R7,Jute Hessian,13125,Finland,2.0
+R7,Jute Hessian,13129,France,14.0
+R7,Jute Hessian,13147,Germany,444.0
+R7,Jute Hessian,13155,Greece,25.0
+R7,Jute Hessian,13193,Ireland,6.0
+R7,Jute Hessian,13197,Italy,172.0
+R7,Jute Hessian,13275,Netherland,691.0
+R7,Jute Hessian,13327,Portugal,5.0
+R7,Jute Hessian,13367,Spain,67.0
+R7,Jute Hessian,13387,Sweden,4.0
+R7,Jute Hessian,13421,U K,256.0
+R7,Jute Hessian,14185,Iceland,7.0
+R7,Jute Hessian,14297,Norway,16.0
+R7,Jute Hessian,14389,Switzerland,2.0
+R7,Jute Hessian,15049,Bulgaria,1.0
+R7,Jute Hessian,15098,Czech Republic,9.0
+R7,Jute Hessian,15114,Estonia,3.0
+R7,Jute Hessian,15181,Hungary,1.0
+R7,Jute Hessian,15224,Latvia,0.0
+R7,Jute Hessian,15234,Lithuania,1.0
+R7,Jute Hessian,15325,Poland,11.0
+R7,Jute Hessian,15343,Romania,0.0
+R7,Jute Hessian,15352,Serbia,1.0
+R7,Jute Hessian,15422,Ukraine,10.0
+R7,Jute Hessian,16095,Cyprus,1.0
+R7,Jute Hessian,16251,Malta,0.0
+R7,Jute Hessian,16409,Turkey,55.0
+R8,Floor Cvrng Of Jute,1213,Kenya,0.0
+R8,Floor Cvrng Of Jute,1395,Tanzania Rep,0.0
+R8,Floor Cvrng Of Jute,1417,Uganda,0.0
+R8,Floor Cvrng Of Jute,2057,Cameroon,0.0
+R8,Floor Cvrng Of Jute,2087,Congo P Rep,0.0
+R8,Floor Cvrng Of Jute,2199,Cote D' Ivoire,0.0
+R8,Floor Cvrng Of Jute,2257,Mauritius,1.0
+R8,Floor Cvrng Of Jute,2353,Senegal,0.0
+R8,Floor Cvrng Of Jute,2459,Congo D. Rep.,0.0
+R8,Floor Cvrng Of Jute,3063,Cape Verde Is,0.0
+R8,Floor Cvrng Of Jute,3149,Ghana,0.0
+R8,Floor Cvrng Of Jute,3269,Namibia,0.0
+R8,Floor Cvrng Of Jute,3339,Reunion,0.0
+R8,Floor Cvrng Of Jute,3355,Seychelles,0.0
+R8,Floor Cvrng Of Jute,3461,Zambia,0.0
+R8,Floor Cvrng Of Jute,4111,Egypt A Rp,1.0
+R8,Floor Cvrng Of Jute,4365,South Africa,46.0
+R8,Floor Cvrng Of Jute,4407,Tunisia,0.0
+R8,Floor Cvrng Of Jute,5059,Canada,26.0
+R8,Floor Cvrng Of Jute,5423,U S A,1073.0
+R8,Floor Cvrng Of Jute,6015,Argentina,1.0
+R8,Floor Cvrng Of Jute,6043,Brazil,4.0
+R8,Floor Cvrng Of Jute,6073,Chile,6.0
+R8,Floor Cvrng Of Jute,6109,Ecuador,0.0
+R8,Floor Cvrng Of Jute,6317,Paraguay,0.0
+R8,Floor Cvrng Of Jute,6427,Uruguay,4.0
+R8,Floor Cvrng Of Jute,6433,Venezuela,0.0
+R8,Floor Cvrng Of Jute,7029,Barbados,0.0
+R8,Floor Cvrng Of Jute,7405,Trinidad,0.0
+R8,Floor Cvrng Of Jute,8091,Costa Rica,0.0
+R8,Floor Cvrng Of Jute,8113,El Salvador,0.0
+R8,Floor Cvrng Of Jute,8165,Guatemala,0.0
+R8,Floor Cvrng Of Jute,9161,Guadeloupe,0.0
+R8,Floor Cvrng Of Jute,9259,Mexico,5.0
+R8,Floor Cvrng Of Jute,9311,Panama Republic,1.0
+R8,Floor Cvrng Of Jute,9383,Suriname,0.0
+R8,Floor Cvrng Of Jute,10017,Australia,88.0
+R8,Floor Cvrng Of Jute,10077,China P Rp,42.0
+R8,Floor Cvrng Of Jute,10179,Hong Kong,0.0
+R8,Floor Cvrng Of Jute,10187,Indonesia,0.0
+R8,Floor Cvrng Of Jute,10189,Iran,0.0
+R8,Floor Cvrng Of Jute,10205,Japan,7.0
+R8,Floor Cvrng Of Jute,10217,Korea Rp,5.0
+R8,Floor Cvrng Of Jute,10245,Malaysia,1.0
+R8,Floor Cvrng Of Jute,10273,Nepal,0.0
+R8,Floor Cvrng Of Jute,10285,New Zealand,6.0
+R8,Floor Cvrng Of Jute,10309,Pakistan Ir,0.0
+R8,Floor Cvrng Of Jute,10315,Papua N Gna,0.0
+R8,Floor Cvrng Of Jute,10323,Philippines,1.0
+R8,Floor Cvrng Of Jute,10359,Singapore,0.0
+R8,Floor Cvrng Of Jute,10369,Sri Lanka Dsr,0.0
+R8,Floor Cvrng Of Jute,10397,Thailand,1.0
+R8,Floor Cvrng Of Jute,11025,Baharain Is,0.0
+R8,Floor Cvrng Of Jute,11219,Kuwait,1.0
+R8,Floor Cvrng Of Jute,11225,Lebanon,0.0
+R8,Floor Cvrng Of Jute,11335,Qatar,0.0
+R8,Floor Cvrng Of Jute,11351,Saudi Arab,19.0
+R8,Floor Cvrng Of Jute,11419,U Arab Emts,20.0
+R8,Floor Cvrng Of Jute,12075,Taiwan,0.0
+R8,Floor Cvrng Of Jute,12195,Israel,6.0
+R8,Floor Cvrng Of Jute,12215,Korea Dp Rp,0.0
+R8,Floor Cvrng Of Jute,12247,Maldives,0.0
+R8,Floor Cvrng Of Jute,13019,Austria,1.0
+R8,Floor Cvrng Of Jute,13033,Belgium,3.0
+R8,Floor Cvrng Of Jute,13101,Denmark,8.0
+R8,Floor Cvrng Of Jute,13125,Finland,3.0
+R8,Floor Cvrng Of Jute,13129,France,12.0
+R8,Floor Cvrng Of Jute,13147,Germany,122.0
+R8,Floor Cvrng Of Jute,13155,Greece,1.0
+R8,Floor Cvrng Of Jute,13197,Italy,21.0
+R8,Floor Cvrng Of Jute,13275,Netherland,5.0
+R8,Floor Cvrng Of Jute,13327,Portugal,0.0
+R8,Floor Cvrng Of Jute,13367,Spain,37.0
+R8,Floor Cvrng Of Jute,13387,Sweden,27.0
+R8,Floor Cvrng Of Jute,13421,U K,97.0
+R8,Floor Cvrng Of Jute,14297,Norway,6.0
+R8,Floor Cvrng Of Jute,14389,Switzerland,1.0
+R8,Floor Cvrng Of Jute,15049,Bulgaria,0.0
+R8,Floor Cvrng Of Jute,15114,Estonia,0.0
+R8,Floor Cvrng Of Jute,15212,Kazakhstan,0.0
+R8,Floor Cvrng Of Jute,15224,Latvia,2.0
+R8,Floor Cvrng Of Jute,15234,Lithuania,1.0
+R8,Floor Cvrng Of Jute,15325,Poland,6.0
+R8,Floor Cvrng Of Jute,15344,Russia,8.0
+R8,Floor Cvrng Of Jute,15358,Slovak Rep,1.0
+R8,Floor Cvrng Of Jute,16095,Cyprus,0.0
+R8,Floor Cvrng Of Jute,16409,Turkey,1.0
+R9,Other Jute Manufactures,1213,Kenya,107.0
+R9,Other Jute Manufactures,1395,Tanzania Rep,116.0
+R9,Other Jute Manufactures,1417,Uganda,32.0
+R9,Other Jute Manufactures,2050,Burkina Faso,0.0
+R9,Other Jute Manufactures,2057,Cameroon,21.0
+R9,Other Jute Manufactures,2087,Congo P Rep,1.0
+R9,Other Jute Manufactures,2199,Cote D' Ivoire,98.0
+R9,Other Jute Manufactures,2241,Madagascar,6.0
+R9,Other Jute Manufactures,2257,Mauritius,3.0
+R9,Other Jute Manufactures,2289,Niger,0.0
+R9,Other Jute Manufactures,2345,Rwanda,5.0
+R9,Other Jute Manufactures,2353,Senegal,3.0
+R9,Other Jute Manufactures,2399,Togo,1.0
+R9,Other Jute Manufactures,2459,Congo D. Rep.,0.0
+R9,Other Jute Manufactures,3011,Angola,0.0
+R9,Other Jute Manufactures,3053,Burundi,8.0
+R9,Other Jute Manufactures,3115,Ethiopia,9.0
+R9,Other Jute Manufactures,3143,Gambia,42.0
+R9,Other Jute Manufactures,3149,Ghana,938.0
+R9,Other Jute Manufactures,3167,Guinea,3.0
+R9,Other Jute Manufactures,3169,Guinea Bissau,46.0
+R9,Other Jute Manufactures,3229,Liberia,0.0
+R9,Other Jute Manufactures,3243,Malawi,2.0
+R9,Other Jute Manufactures,3249,Mali,0.0
+R9,Other Jute Manufactures,3267,Mozambique,13.0
+R9,Other Jute Manufactures,3291,Nigeria,29.0
+R9,Other Jute Manufactures,3339,Reunion,0.0
+R9,Other Jute Manufactures,3347,Saharwi A.Dm Rp,1.0
+R9,Other Jute Manufactures,3349,Sao Tome,1.0
+R9,Other Jute Manufactures,3355,Seychelles,0.0
+R9,Other Jute Manufactures,3357,Sierra Leone,6.0
+R9,Other Jute Manufactures,3363,Somalia,0.0
+R9,Other Jute Manufactures,3385,Swaziland,0.0
+R9,Other Jute Manufactures,3461,Zambia,0.0
+R9,Other Jute Manufactures,4005,Algeria,0.0
+R9,Other Jute Manufactures,4111,Egypt A Rp,26.0
+R9,Other Jute Manufactures,4231,Libya,0.0
+R9,Other Jute Manufactures,4265,Morocco,1.0
+R9,Other Jute Manufactures,4365,South Africa,43.0
+R9,Other Jute Manufactures,4381,Sudan,262.0
+R9,Other Jute Manufactures,4463,Zimbabwe,11.0
+R9,Other Jute Manufactures,5059,Canada,44.0
+R9,Other Jute Manufactures,5423,U S A,819.0
+R9,Other Jute Manufactures,6015,Argentina,4.0
+R9,Other Jute Manufactures,6043,Brazil,3.0
+R9,Other Jute Manufactures,6073,Chile,4.0
+R9,Other Jute Manufactures,6083,Colombia,1.0
+R9,Other Jute Manufactures,6109,Ecuador,13.0
+R9,Other Jute Manufactures,6317,Paraguay,0.0
+R9,Other Jute Manufactures,6319,Peru,33.0
+R9,Other Jute Manufactures,6427,Uruguay,2.0
+R9,Other Jute Manufactures,6433,Venezuela,1.0
+R9,Other Jute Manufactures,7023,Bahamas,3.0
+R9,Other Jute Manufactures,7031,Belize,0.0
+R9,Other Jute Manufactures,7159,Grenada,1.0
+R9,Other Jute Manufactures,7203,Jamaica,2.0
+R9,Other Jute Manufactures,7405,Trinidad,1.0
+R9,Other Jute Manufactures,8091,Costa Rica,10.0
+R9,Other Jute Manufactures,8165,Guatemala,4.0
+R9,Other Jute Manufactures,8177,Honduras,17.0
+R9,Other Jute Manufactures,8287,Nicaragua,11.0
+R9,Other Jute Manufactures,9103,Dominic Rep,1.0
+R9,Other Jute Manufactures,9161,Guadeloupe,0.0
+R9,Other Jute Manufactures,9259,Mexico,20.0
+R9,Other Jute Manufactures,9277,Netherlandantil,1.0
+R9,Other Jute Manufactures,9311,Panama Republic,3.0
+R9,Other Jute Manufactures,9331,Puerto Rico,4.0
+R9,Other Jute Manufactures,10001,Afghanistan,0.0
+R9,Other Jute Manufactures,10017,Australia,159.0
+R9,Other Jute Manufactures,10027,Bangladesh Pr,0.0
+R9,Other Jute Manufactures,10038,Bhutan,7.0
+R9,Other Jute Manufactures,10047,Brunei,0.0
+R9,Other Jute Manufactures,10056,Cambodia,0.0
+R9,Other Jute Manufactures,10077,China P Rp,3.0
+R9,Other Jute Manufactures,10127,Fiji Is,1.0
+R9,Other Jute Manufactures,10179,Hong Kong,5.0
+R9,Other Jute Manufactures,10187,Indonesia,15.0
+R9,Other Jute Manufactures,10189,Iran,0.0
+R9,Other Jute Manufactures,10205,Japan,63.0
+R9,Other Jute Manufactures,10217,Korea Rp,3.0
+R9,Other Jute Manufactures,10245,Malaysia,33.0
+R9,Other Jute Manufactures,10258,Myanmar,0.0
+R9,Other Jute Manufactures,10261,Mongolia,0.0
+R9,Other Jute Manufactures,10273,Nepal,9.0
+R9,Other Jute Manufactures,10285,New Zealand,33.0
+R9,Other Jute Manufactures,10315,Papua N Gna,10.0
+R9,Other Jute Manufactures,10323,Philippines,0.0
+R9,Other Jute Manufactures,10359,Singapore,4.0
+R9,Other Jute Manufactures,10361,Solomon Is,1.0
+R9,Other Jute Manufactures,10369,Sri Lanka Dsr,7.0
+R9,Other Jute Manufactures,10397,Thailand,3.0
+R9,Other Jute Manufactures,10437,Vietnam Soc Rep,83.0
+R9,Other Jute Manufactures,11025,Baharain Is,1.0
+R9,Other Jute Manufactures,11191,Iraq,0.0
+R9,Other Jute Manufactures,11207,Jordan,10.0
+R9,Other Jute Manufactures,11219,Kuwait,10.0
+R9,Other Jute Manufactures,11225,Lebanon,14.0
+R9,Other Jute Manufactures,11301,Oman,2.0
+R9,Other Jute Manufactures,11335,Qatar,4.0
+R9,Other Jute Manufactures,11351,Saudi Arab,144.0
+R9,Other Jute Manufactures,11419,U Arab Emts,63.0
+R9,Other Jute Manufactures,11453,Yemen Republc,2.0
+R9,Other Jute Manufactures,12075,Taiwan,7.0
+R9,Other Jute Manufactures,12131,Fr Guiana,1.0
+R9,Other Jute Manufactures,12133,Fr Polynesia,4.0
+R9,Other Jute Manufactures,12195,Israel,5.0
+R9,Other Jute Manufactures,12247,Maldives,3.0
+R9,Other Jute Manufactures,12281,New Caledonia,1.0
+R9,Other Jute Manufactures,13019,Austria,10.0
+R9,Other Jute Manufactures,13033,Belgium,21.0
+R9,Other Jute Manufactures,13101,Denmark,8.0
+R9,Other Jute Manufactures,13125,Finland,11.0
+R9,Other Jute Manufactures,13129,France,93.0
+R9,Other Jute Manufactures,13147,Germany,119.0
+R9,Other Jute Manufactures,13155,Greece,11.0
+R9,Other Jute Manufactures,13193,Ireland,4.0
+R9,Other Jute Manufactures,13197,Italy,62.0
+R9,Other Jute Manufactures,13275,Netherland,96.0
+R9,Other Jute Manufactures,13327,Portugal,3.0
+R9,Other Jute Manufactures,13367,Spain,61.0
+R9,Other Jute Manufactures,13387,Sweden,7.0
+R9,Other Jute Manufactures,13421,U K,682.0
+R9,Other Jute Manufactures,14297,Norway,2.0
+R9,Other Jute Manufactures,14389,Switzerland,9.0
+R9,Other Jute Manufactures,15016,Armenia,0.0
+R9,Other Jute Manufactures,15049,Bulgaria,10.0
+R9,Other Jute Manufactures,15092,Croatia,1.0
+R9,Other Jute Manufactures,15098,Czech Republic,6.0
+R9,Other Jute Manufactures,15114,Estonia,3.0
+R9,Other Jute Manufactures,15145,Georgia,2.0
+R9,Other Jute Manufactures,15181,Hungary,7.0
+R9,Other Jute Manufactures,15212,Kazakhstan,1.0
+R9,Other Jute Manufactures,15216,Kyrghyzstan,0.0
+R9,Other Jute Manufactures,15224,Latvia,1.0
+R9,Other Jute Manufactures,15234,Lithuania,1.0
+R9,Other Jute Manufactures,15325,Poland,4.0
+R9,Other Jute Manufactures,15343,Romania,1.0
+R9,Other Jute Manufactures,15344,Russia,3.0
+R9,Other Jute Manufactures,15358,Slovak Rep,10.0
+R9,Other Jute Manufactures,15360,Slovenia,2.0
+R9,Other Jute Manufactures,15393,Tajikistan,0.0
+R9,Other Jute Manufactures,15422,Ukraine,0.0
+R9,Other Jute Manufactures,15430,Uzbekistan,0.0
+R9,Other Jute Manufactures,16095,Cyprus,1.0
+R9,Other Jute Manufactures,16251,Malta,0.0
+R9,Other Jute Manufactures,16409,Turkey,48.0
+S1,Handcrfs(Excl.Handmade Crpts),1213,Kenya,259.0
+S1,Handcrfs(Excl.Handmade Crpts),1395,Tanzania Rep,1057.0
+S1,Handcrfs(Excl.Handmade Crpts),1417,Uganda,17.0
+S1,Handcrfs(Excl.Handmade Crpts),2035,Benin,62.0
+S1,Handcrfs(Excl.Handmade Crpts),2050,Burkina Faso,12.0
+S1,Handcrfs(Excl.Handmade Crpts),2057,Cameroon,8.0
+S1,Handcrfs(Excl.Handmade Crpts),2067,C Afri Rep,0.0
+S1,Handcrfs(Excl.Handmade Crpts),2069,Chad,18.0
+S1,Handcrfs(Excl.Handmade Crpts),2087,Congo P Rep,7.0
+S1,Handcrfs(Excl.Handmade Crpts),2141,Gabon,3.0
+S1,Handcrfs(Excl.Handmade Crpts),2199,Cote D' Ivoire,22.0
+S1,Handcrfs(Excl.Handmade Crpts),2241,Madagascar,74.0
+S1,Handcrfs(Excl.Handmade Crpts),2255,Mauritania,4.0
+S1,Handcrfs(Excl.Handmade Crpts),2257,Mauritius,189.0
+S1,Handcrfs(Excl.Handmade Crpts),2289,Niger,16.0
+S1,Handcrfs(Excl.Handmade Crpts),2345,Rwanda,39.0
+S1,Handcrfs(Excl.Handmade Crpts),2353,Senegal,167.0
+S1,Handcrfs(Excl.Handmade Crpts),2399,Togo,65.0
+S1,Handcrfs(Excl.Handmade Crpts),2459,Congo D. Rep.,11.0
+S1,Handcrfs(Excl.Handmade Crpts),3011,Angola,40.0
+S1,Handcrfs(Excl.Handmade Crpts),3041,Botswana,3.0
+S1,Handcrfs(Excl.Handmade Crpts),3053,Burundi,0.0
+S1,Handcrfs(Excl.Handmade Crpts),3063,Cape Verde Is,1.0
+S1,Handcrfs(Excl.Handmade Crpts),3085,Comoros,7.0
+S1,Handcrfs(Excl.Handmade Crpts),3102,Djibouti,38.0
+S1,Handcrfs(Excl.Handmade Crpts),3115,Ethiopia,331.0
+S1,Handcrfs(Excl.Handmade Crpts),3116,Eritrea,2.0
+S1,Handcrfs(Excl.Handmade Crpts),3117,Equtl Guinea,1.0
+S1,Handcrfs(Excl.Handmade Crpts),3143,Gambia,16.0
+S1,Handcrfs(Excl.Handmade Crpts),3149,Ghana,57.0
+S1,Handcrfs(Excl.Handmade Crpts),3167,Guinea,45.0
+S1,Handcrfs(Excl.Handmade Crpts),3227,Lesotho,0.0
+S1,Handcrfs(Excl.Handmade Crpts),3229,Liberia,1.0
+S1,Handcrfs(Excl.Handmade Crpts),3243,Malawi,3.0
+S1,Handcrfs(Excl.Handmade Crpts),3249,Mali,190.0
+S1,Handcrfs(Excl.Handmade Crpts),3267,Mozambique,55.0
+S1,Handcrfs(Excl.Handmade Crpts),3269,Namibia,3.0
+S1,Handcrfs(Excl.Handmade Crpts),3291,Nigeria,1679.0
+S1,Handcrfs(Excl.Handmade Crpts),3339,Reunion,16.0
+S1,Handcrfs(Excl.Handmade Crpts),3355,Seychelles,2.0
+S1,Handcrfs(Excl.Handmade Crpts),3357,Sierra Leone,6.0
+S1,Handcrfs(Excl.Handmade Crpts),3363,Somalia,99.0
+S1,Handcrfs(Excl.Handmade Crpts),3385,Swaziland,0.0
+S1,Handcrfs(Excl.Handmade Crpts),3461,Zambia,12.0
+S1,Handcrfs(Excl.Handmade Crpts),4005,Algeria,67.0
+S1,Handcrfs(Excl.Handmade Crpts),4111,Egypt A Rp,324.0
+S1,Handcrfs(Excl.Handmade Crpts),4231,Libya,89.0
+S1,Handcrfs(Excl.Handmade Crpts),4265,Morocco,109.0
+S1,Handcrfs(Excl.Handmade Crpts),4365,South Africa,382.0
+S1,Handcrfs(Excl.Handmade Crpts),4381,Sudan,277.0
+S1,Handcrfs(Excl.Handmade Crpts),4407,Tunisia,14.0
+S1,Handcrfs(Excl.Handmade Crpts),4463,Zimbabwe,2.0
+S1,Handcrfs(Excl.Handmade Crpts),5059,Canada,640.0
+S1,Handcrfs(Excl.Handmade Crpts),5423,U S A,18168.0
+S1,Handcrfs(Excl.Handmade Crpts),6015,Argentina,230.0
+S1,Handcrfs(Excl.Handmade Crpts),6039,Bolivia,1.0
+S1,Handcrfs(Excl.Handmade Crpts),6043,Brazil,445.0
+S1,Handcrfs(Excl.Handmade Crpts),6073,Chile,350.0
+S1,Handcrfs(Excl.Handmade Crpts),6083,Colombia,129.0
+S1,Handcrfs(Excl.Handmade Crpts),6109,Ecuador,64.0
+S1,Handcrfs(Excl.Handmade Crpts),6317,Paraguay,4.0
+S1,Handcrfs(Excl.Handmade Crpts),6319,Peru,63.0
+S1,Handcrfs(Excl.Handmade Crpts),6427,Uruguay,50.0
+S1,Handcrfs(Excl.Handmade Crpts),6433,Venezuela,34.0
+S1,Handcrfs(Excl.Handmade Crpts),7013,Antigua,0.0
+S1,Handcrfs(Excl.Handmade Crpts),7020,Aruba,0.0
+S1,Handcrfs(Excl.Handmade Crpts),7023,Bahamas,2.0
+S1,Handcrfs(Excl.Handmade Crpts),7029,Barbados,1.0
+S1,Handcrfs(Excl.Handmade Crpts),7105,Dominica,0.0
+S1,Handcrfs(Excl.Handmade Crpts),7159,Grenada,0.0
+S1,Handcrfs(Excl.Handmade Crpts),7171,Guyana,15.0
+S1,Handcrfs(Excl.Handmade Crpts),7203,Jamaica,1.0
+S1,Handcrfs(Excl.Handmade Crpts),7373,St Kitt N A,1.0
+S1,Handcrfs(Excl.Handmade Crpts),7375,St Lucia,0.0
+S1,Handcrfs(Excl.Handmade Crpts),7379,St Vincent,2.0
+S1,Handcrfs(Excl.Handmade Crpts),7405,Trinidad,59.0
+S1,Handcrfs(Excl.Handmade Crpts),8091,Costa Rica,13.0
+S1,Handcrfs(Excl.Handmade Crpts),8113,El Salvador,2.0
+S1,Handcrfs(Excl.Handmade Crpts),8165,Guatemala,11.0
+S1,Handcrfs(Excl.Handmade Crpts),8177,Honduras,1.0
+S1,Handcrfs(Excl.Handmade Crpts),8287,Nicaragua,0.0
+S1,Handcrfs(Excl.Handmade Crpts),9037,Bermuda,1.0
+S1,Handcrfs(Excl.Handmade Crpts),9045,Br Virgn Is,0.0
+S1,Handcrfs(Excl.Handmade Crpts),9065,Cayman Is,0.0
+S1,Handcrfs(Excl.Handmade Crpts),9093,Cuba,1.0
+S1,Handcrfs(Excl.Handmade Crpts),9103,Dominic Rep,9.0
+S1,Handcrfs(Excl.Handmade Crpts),9161,Guadeloupe,1.0
+S1,Handcrfs(Excl.Handmade Crpts),9175,Haiti,3.0
+S1,Handcrfs(Excl.Handmade Crpts),9253,Martinique,0.0
+S1,Handcrfs(Excl.Handmade Crpts),9259,Mexico,215.0
+S1,Handcrfs(Excl.Handmade Crpts),9277,Netherlandantil,5.0
+S1,Handcrfs(Excl.Handmade Crpts),9311,Panama Republic,45.0
+S1,Handcrfs(Excl.Handmade Crpts),9331,Puerto Rico,12.0
+S1,Handcrfs(Excl.Handmade Crpts),9383,Suriname,14.0
+S1,Handcrfs(Excl.Handmade Crpts),9439,Virgin Is Us,1.0
+S1,Handcrfs(Excl.Handmade Crpts),10001,Afghanistan,358.0
+S1,Handcrfs(Excl.Handmade Crpts),10017,Australia,1240.0
+S1,Handcrfs(Excl.Handmade Crpts),10027,Bangladesh Pr,394.0
+S1,Handcrfs(Excl.Handmade Crpts),10038,Bhutan,3.0
+S1,Handcrfs(Excl.Handmade Crpts),10047,Brunei,1.0
+S1,Handcrfs(Excl.Handmade Crpts),10056,Cambodia,1.0
+S1,Handcrfs(Excl.Handmade Crpts),10077,China P Rp,1669.0
+S1,Handcrfs(Excl.Handmade Crpts),10089,Cook Is,1.0
+S1,Handcrfs(Excl.Handmade Crpts),10127,Fiji Is,51.0
+S1,Handcrfs(Excl.Handmade Crpts),10179,Hong Kong,1032.0
+S1,Handcrfs(Excl.Handmade Crpts),10187,Indonesia,176.0
+S1,Handcrfs(Excl.Handmade Crpts),10189,Iran,553.0
+S1,Handcrfs(Excl.Handmade Crpts),10205,Japan,746.0
+S1,Handcrfs(Excl.Handmade Crpts),10217,Korea Rp,187.0
+S1,Handcrfs(Excl.Handmade Crpts),10223,Lao Pd Rp,0.0
+S1,Handcrfs(Excl.Handmade Crpts),10245,Malaysia,1589.0
+S1,Handcrfs(Excl.Handmade Crpts),10258,Myanmar,215.0
+S1,Handcrfs(Excl.Handmade Crpts),10261,Mongolia,0.0
+S1,Handcrfs(Excl.Handmade Crpts),10273,Nepal,239.0
+S1,Handcrfs(Excl.Handmade Crpts),10285,New Zealand,190.0
+S1,Handcrfs(Excl.Handmade Crpts),10309,Pakistan Ir,1238.0
+S1,Handcrfs(Excl.Handmade Crpts),10315,Papua N Gna,0.0
+S1,Handcrfs(Excl.Handmade Crpts),10323,Philippines,31.0
+S1,Handcrfs(Excl.Handmade Crpts),10359,Singapore,509.0
+S1,Handcrfs(Excl.Handmade Crpts),10361,Solomon Is,1.0
+S1,Handcrfs(Excl.Handmade Crpts),10369,Sri Lanka Dsr,472.0
+S1,Handcrfs(Excl.Handmade Crpts),10397,Thailand,93.0
+S1,Handcrfs(Excl.Handmade Crpts),10437,Vietnam Soc Rep,28.0
+S1,Handcrfs(Excl.Handmade Crpts),10447,Samoa,0.0
+S1,Handcrfs(Excl.Handmade Crpts),11025,Baharain Is,37.0
+S1,Handcrfs(Excl.Handmade Crpts),11191,Iraq,171.0
+S1,Handcrfs(Excl.Handmade Crpts),11207,Jordan,42.0
+S1,Handcrfs(Excl.Handmade Crpts),11219,Kuwait,232.0
+S1,Handcrfs(Excl.Handmade Crpts),11225,Lebanon,52.0
+S1,Handcrfs(Excl.Handmade Crpts),11301,Oman,93.0
+S1,Handcrfs(Excl.Handmade Crpts),11335,Qatar,106.0
+S1,Handcrfs(Excl.Handmade Crpts),11351,Saudi Arab,1102.0
+S1,Handcrfs(Excl.Handmade Crpts),11391,Syria,12.0
+S1,Handcrfs(Excl.Handmade Crpts),11419,U Arab Emts,3679.0
+S1,Handcrfs(Excl.Handmade Crpts),11453,Yemen Republc,239.0
+S1,Handcrfs(Excl.Handmade Crpts),12075,Taiwan,72.0
+S1,Handcrfs(Excl.Handmade Crpts),12133,Fr Polynesia,0.0
+S1,Handcrfs(Excl.Handmade Crpts),12163,Guam,0.0
+S1,Handcrfs(Excl.Handmade Crpts),12195,Israel,148.0
+S1,Handcrfs(Excl.Handmade Crpts),12215,Korea Dp Rp,5.0
+S1,Handcrfs(Excl.Handmade Crpts),12239,Macao,1.0
+S1,Handcrfs(Excl.Handmade Crpts),12247,Maldives,39.0
+S1,Handcrfs(Excl.Handmade Crpts),12281,New Caledonia,2.0
+S1,Handcrfs(Excl.Handmade Crpts),12431,Vanuatu Rep,0.0
+S1,Handcrfs(Excl.Handmade Crpts),13019,Austria,82.0
+S1,Handcrfs(Excl.Handmade Crpts),13033,Belgium,589.0
+S1,Handcrfs(Excl.Handmade Crpts),13101,Denmark,605.0
+S1,Handcrfs(Excl.Handmade Crpts),13125,Finland,157.0
+S1,Handcrfs(Excl.Handmade Crpts),13129,France,2036.0
+S1,Handcrfs(Excl.Handmade Crpts),13147,Germany,2384.0
+S1,Handcrfs(Excl.Handmade Crpts),13155,Greece,80.0
+S1,Handcrfs(Excl.Handmade Crpts),13193,Ireland,127.0
+S1,Handcrfs(Excl.Handmade Crpts),13197,Italy,1051.0
+S1,Handcrfs(Excl.Handmade Crpts),13235,Luxembourg,2.0
+S1,Handcrfs(Excl.Handmade Crpts),13262,Monaco,0.0
+S1,Handcrfs(Excl.Handmade Crpts),13275,Netherland,1436.0
+S1,Handcrfs(Excl.Handmade Crpts),13327,Portugal,139.0
+S1,Handcrfs(Excl.Handmade Crpts),13367,Spain,1433.0
+S1,Handcrfs(Excl.Handmade Crpts),13387,Sweden,564.0
+S1,Handcrfs(Excl.Handmade Crpts),13421,U K,4865.0
+S1,Handcrfs(Excl.Handmade Crpts),14185,Iceland,2.0
+S1,Handcrfs(Excl.Handmade Crpts),14297,Norway,277.0
+S1,Handcrfs(Excl.Handmade Crpts),14389,Switzerland,373.0
+S1,Handcrfs(Excl.Handmade Crpts),15016,Armenia,1.0
+S1,Handcrfs(Excl.Handmade Crpts),15021,Azerbaijan,22.0
+S1,Handcrfs(Excl.Handmade Crpts),15040,Bosnia-Hrzgovin,1.0
+S1,Handcrfs(Excl.Handmade Crpts),15049,Bulgaria,5.0
+S1,Handcrfs(Excl.Handmade Crpts),15055,Belarus,0.0
+S1,Handcrfs(Excl.Handmade Crpts),15092,Croatia,24.0
+S1,Handcrfs(Excl.Handmade Crpts),15098,Czech Republic,44.0
+S1,Handcrfs(Excl.Handmade Crpts),15114,Estonia,22.0
+S1,Handcrfs(Excl.Handmade Crpts),15145,Georgia,10.0
+S1,Handcrfs(Excl.Handmade Crpts),15181,Hungary,16.0
+S1,Handcrfs(Excl.Handmade Crpts),15212,Kazakhstan,22.0
+S1,Handcrfs(Excl.Handmade Crpts),15216,Kyrghyzstan,9.0
+S1,Handcrfs(Excl.Handmade Crpts),15224,Latvia,71.0
+S1,Handcrfs(Excl.Handmade Crpts),15234,Lithuania,12.0
+S1,Handcrfs(Excl.Handmade Crpts),15240,Macedonia,1.0
+S1,Handcrfs(Excl.Handmade Crpts),15260,Moldova,0.0
+S1,Handcrfs(Excl.Handmade Crpts),15325,Poland,241.0
+S1,Handcrfs(Excl.Handmade Crpts),15343,Romania,23.0
+S1,Handcrfs(Excl.Handmade Crpts),15344,Russia,125.0
+S1,Handcrfs(Excl.Handmade Crpts),15352,Serbia,6.0
+S1,Handcrfs(Excl.Handmade Crpts),15354,Serbia Montngro,1.0
+S1,Handcrfs(Excl.Handmade Crpts),15358,Slovak Rep,30.0
+S1,Handcrfs(Excl.Handmade Crpts),15360,Slovenia,43.0
+S1,Handcrfs(Excl.Handmade Crpts),15393,Tajikistan,1.0
+S1,Handcrfs(Excl.Handmade Crpts),15410,Turkmenistan,0.0
+S1,Handcrfs(Excl.Handmade Crpts),15422,Ukraine,12.0
+S1,Handcrfs(Excl.Handmade Crpts),15430,Uzbekistan,7.0
+S1,Handcrfs(Excl.Handmade Crpts),16009,Andorra,1.0
+S1,Handcrfs(Excl.Handmade Crpts),16095,Cyprus,3.0
+S1,Handcrfs(Excl.Handmade Crpts),16151,Gibraltar,0.0
+S1,Handcrfs(Excl.Handmade Crpts),16251,Malta,6.0
+S1,Handcrfs(Excl.Handmade Crpts),16409,Turkey,719.0
+S2,Carpet(Excl. Silk) Handmade,1213,Kenya,71.0
+S2,Carpet(Excl. Silk) Handmade,1395,Tanzania Rep,21.0
+S2,Carpet(Excl. Silk) Handmade,1417,Uganda,32.0
+S2,Carpet(Excl. Silk) Handmade,2035,Benin,0.0
+S2,Carpet(Excl. Silk) Handmade,2050,Burkina Faso,1.0
+S2,Carpet(Excl. Silk) Handmade,2057,Cameroon,2.0
+S2,Carpet(Excl. Silk) Handmade,2087,Congo P Rep,1.0
+S2,Carpet(Excl. Silk) Handmade,2199,Cote D' Ivoire,1.0
+S2,Carpet(Excl. Silk) Handmade,2257,Mauritius,21.0
+S2,Carpet(Excl. Silk) Handmade,2345,Rwanda,0.0
+S2,Carpet(Excl. Silk) Handmade,2353,Senegal,2.0
+S2,Carpet(Excl. Silk) Handmade,2399,Togo,0.0
+S2,Carpet(Excl. Silk) Handmade,2459,Congo D. Rep.,1.0
+S2,Carpet(Excl. Silk) Handmade,3011,Angola,6.0
+S2,Carpet(Excl. Silk) Handmade,3041,Botswana,0.0
+S2,Carpet(Excl. Silk) Handmade,3063,Cape Verde Is,0.0
+S2,Carpet(Excl. Silk) Handmade,3085,Comoros,0.0
+S2,Carpet(Excl. Silk) Handmade,3115,Ethiopia,0.0
+S2,Carpet(Excl. Silk) Handmade,3149,Ghana,42.0
+S2,Carpet(Excl. Silk) Handmade,3167,Guinea,0.0
+S2,Carpet(Excl. Silk) Handmade,3243,Malawi,0.0
+S2,Carpet(Excl. Silk) Handmade,3249,Mali,0.0
+S2,Carpet(Excl. Silk) Handmade,3267,Mozambique,0.0
+S2,Carpet(Excl. Silk) Handmade,3269,Namibia,2.0
+S2,Carpet(Excl. Silk) Handmade,3291,Nigeria,9.0
+S2,Carpet(Excl. Silk) Handmade,3339,Reunion,0.0
+S2,Carpet(Excl. Silk) Handmade,3355,Seychelles,1.0
+S2,Carpet(Excl. Silk) Handmade,3363,Somalia,0.0
+S2,Carpet(Excl. Silk) Handmade,3385,Swaziland,1.0
+S2,Carpet(Excl. Silk) Handmade,3461,Zambia,2.0
+S2,Carpet(Excl. Silk) Handmade,4005,Algeria,3.0
+S2,Carpet(Excl. Silk) Handmade,4111,Egypt A Rp,146.0
+S2,Carpet(Excl. Silk) Handmade,4231,Libya,1.0
+S2,Carpet(Excl. Silk) Handmade,4265,Morocco,10.0
+S2,Carpet(Excl. Silk) Handmade,4365,South Africa,382.0
+S2,Carpet(Excl. Silk) Handmade,4381,Sudan,17.0
+S2,Carpet(Excl. Silk) Handmade,4407,Tunisia,2.0
+S2,Carpet(Excl. Silk) Handmade,4463,Zimbabwe,0.0
+S2,Carpet(Excl. Silk) Handmade,5059,Canada,908.0
+S2,Carpet(Excl. Silk) Handmade,5423,U S A,26183.0
+S2,Carpet(Excl. Silk) Handmade,6015,Argentina,13.0
+S2,Carpet(Excl. Silk) Handmade,6039,Bolivia,0.0
+S2,Carpet(Excl. Silk) Handmade,6043,Brazil,516.0
+S2,Carpet(Excl. Silk) Handmade,6073,Chile,91.0
+S2,Carpet(Excl. Silk) Handmade,6083,Colombia,64.0
+S2,Carpet(Excl. Silk) Handmade,6109,Ecuador,4.0
+S2,Carpet(Excl. Silk) Handmade,6317,Paraguay,2.0
+S2,Carpet(Excl. Silk) Handmade,6319,Peru,10.0
+S2,Carpet(Excl. Silk) Handmade,6427,Uruguay,7.0
+S2,Carpet(Excl. Silk) Handmade,6433,Venezuela,9.0
+S2,Carpet(Excl. Silk) Handmade,7012,Anguilla,0.0
+S2,Carpet(Excl. Silk) Handmade,7023,Bahamas,2.0
+S2,Carpet(Excl. Silk) Handmade,7029,Barbados,2.0
+S2,Carpet(Excl. Silk) Handmade,7203,Jamaica,0.0
+S2,Carpet(Excl. Silk) Handmade,7373,St Kitt N A,0.0
+S2,Carpet(Excl. Silk) Handmade,7405,Trinidad,1.0
+S2,Carpet(Excl. Silk) Handmade,8091,Costa Rica,5.0
+S2,Carpet(Excl. Silk) Handmade,8113,El Salvador,0.0
+S2,Carpet(Excl. Silk) Handmade,8165,Guatemala,8.0
+S2,Carpet(Excl. Silk) Handmade,8177,Honduras,0.0
+S2,Carpet(Excl. Silk) Handmade,9037,Bermuda,0.0
+S2,Carpet(Excl. Silk) Handmade,9065,Cayman Is,0.0
+S2,Carpet(Excl. Silk) Handmade,9103,Dominic Rep,4.0
+S2,Carpet(Excl. Silk) Handmade,9161,Guadeloupe,0.0
+S2,Carpet(Excl. Silk) Handmade,9259,Mexico,154.0
+S2,Carpet(Excl. Silk) Handmade,9277,Netherlandantil,0.0
+S2,Carpet(Excl. Silk) Handmade,9311,Panama Republic,55.0
+S2,Carpet(Excl. Silk) Handmade,9331,Puerto Rico,6.0
+S2,Carpet(Excl. Silk) Handmade,9383,Suriname,3.0
+S2,Carpet(Excl. Silk) Handmade,10001,Afghanistan,2.0
+S2,Carpet(Excl. Silk) Handmade,10017,Australia,1558.0
+S2,Carpet(Excl. Silk) Handmade,10027,Bangladesh Pr,1.0
+S2,Carpet(Excl. Silk) Handmade,10038,Bhutan,1.0
+S2,Carpet(Excl. Silk) Handmade,10047,Brunei,4.0
+S2,Carpet(Excl. Silk) Handmade,10056,Cambodia,5.0
+S2,Carpet(Excl. Silk) Handmade,10077,China P Rp,428.0
+S2,Carpet(Excl. Silk) Handmade,10127,Fiji Is,0.0
+S2,Carpet(Excl. Silk) Handmade,10179,Hong Kong,118.0
+S2,Carpet(Excl. Silk) Handmade,10187,Indonesia,35.0
+S2,Carpet(Excl. Silk) Handmade,10189,Iran,70.0
+S2,Carpet(Excl. Silk) Handmade,10205,Japan,560.0
+S2,Carpet(Excl. Silk) Handmade,10217,Korea Rp,134.0
+S2,Carpet(Excl. Silk) Handmade,10223,Lao Pd Rp,22.0
+S2,Carpet(Excl. Silk) Handmade,10245,Malaysia,482.0
+S2,Carpet(Excl. Silk) Handmade,10258,Myanmar,17.0
+S2,Carpet(Excl. Silk) Handmade,10273,Nepal,5.0
+S2,Carpet(Excl. Silk) Handmade,10285,New Zealand,120.0
+S2,Carpet(Excl. Silk) Handmade,10309,Pakistan Ir,1.0
+S2,Carpet(Excl. Silk) Handmade,10315,Papua N Gna,0.0
+S2,Carpet(Excl. Silk) Handmade,10323,Philippines,19.0
+S2,Carpet(Excl. Silk) Handmade,10359,Singapore,185.0
+S2,Carpet(Excl. Silk) Handmade,10369,Sri Lanka Dsr,134.0
+S2,Carpet(Excl. Silk) Handmade,10397,Thailand,232.0
+S2,Carpet(Excl. Silk) Handmade,10437,Vietnam Soc Rep,34.0
+S2,Carpet(Excl. Silk) Handmade,11025,Baharain Is,50.0
+S2,Carpet(Excl. Silk) Handmade,11191,Iraq,1.0
+S2,Carpet(Excl. Silk) Handmade,11207,Jordan,8.0
+S2,Carpet(Excl. Silk) Handmade,11219,Kuwait,134.0
+S2,Carpet(Excl. Silk) Handmade,11225,Lebanon,85.0
+S2,Carpet(Excl. Silk) Handmade,11301,Oman,37.0
+S2,Carpet(Excl. Silk) Handmade,11335,Qatar,163.0
+S2,Carpet(Excl. Silk) Handmade,11351,Saudi Arab,437.0
+S2,Carpet(Excl. Silk) Handmade,11419,U Arab Emts,9556.0
+S2,Carpet(Excl. Silk) Handmade,11453,Yemen Republc,0.0
+S2,Carpet(Excl. Silk) Handmade,12075,Taiwan,23.0
+S2,Carpet(Excl. Silk) Handmade,12163,Guam,0.0
+S2,Carpet(Excl. Silk) Handmade,12195,Israel,154.0
+S2,Carpet(Excl. Silk) Handmade,12215,Korea Dp Rp,51.0
+S2,Carpet(Excl. Silk) Handmade,12247,Maldives,4.0
+S2,Carpet(Excl. Silk) Handmade,13019,Austria,274.0
+S2,Carpet(Excl. Silk) Handmade,13033,Belgium,686.0
+S2,Carpet(Excl. Silk) Handmade,13101,Denmark,629.0
+S2,Carpet(Excl. Silk) Handmade,13125,Finland,192.0
+S2,Carpet(Excl. Silk) Handmade,13129,France,715.0
+S2,Carpet(Excl. Silk) Handmade,13147,Germany,4886.0
+S2,Carpet(Excl. Silk) Handmade,13155,Greece,102.0
+S2,Carpet(Excl. Silk) Handmade,13193,Ireland,23.0
+S2,Carpet(Excl. Silk) Handmade,13197,Italy,758.0
+S2,Carpet(Excl. Silk) Handmade,13235,Luxembourg,6.0
+S2,Carpet(Excl. Silk) Handmade,13262,Monaco,17.0
+S2,Carpet(Excl. Silk) Handmade,13275,Netherland,1013.0
+S2,Carpet(Excl. Silk) Handmade,13327,Portugal,254.0
+S2,Carpet(Excl. Silk) Handmade,13346,San Marino,0.0
+S2,Carpet(Excl. Silk) Handmade,13367,Spain,403.0
+S2,Carpet(Excl. Silk) Handmade,13387,Sweden,677.0
+S2,Carpet(Excl. Silk) Handmade,13421,U K,3121.0
+S2,Carpet(Excl. Silk) Handmade,14185,Iceland,1.0
+S2,Carpet(Excl. Silk) Handmade,14297,Norway,240.0
+S2,Carpet(Excl. Silk) Handmade,14389,Switzerland,155.0
+S2,Carpet(Excl. Silk) Handmade,15003,Albania,2.0
+S2,Carpet(Excl. Silk) Handmade,15021,Azerbaijan,15.0
+S2,Carpet(Excl. Silk) Handmade,15040,Bosnia-Hrzgovin,6.0
+S2,Carpet(Excl. Silk) Handmade,15049,Bulgaria,7.0
+S2,Carpet(Excl. Silk) Handmade,15055,Belarus,0.0
+S2,Carpet(Excl. Silk) Handmade,15092,Croatia,32.0
+S2,Carpet(Excl. Silk) Handmade,15098,Czech Republic,19.0
+S2,Carpet(Excl. Silk) Handmade,15114,Estonia,6.0
+S2,Carpet(Excl. Silk) Handmade,15145,Georgia,2.0
+S2,Carpet(Excl. Silk) Handmade,15181,Hungary,562.0
+S2,Carpet(Excl. Silk) Handmade,15212,Kazakhstan,10.0
+S2,Carpet(Excl. Silk) Handmade,15216,Kyrghyzstan,7.0
+S2,Carpet(Excl. Silk) Handmade,15224,Latvia,62.0
+S2,Carpet(Excl. Silk) Handmade,15234,Lithuania,57.0
+S2,Carpet(Excl. Silk) Handmade,15325,Poland,167.0
+S2,Carpet(Excl. Silk) Handmade,15343,Romania,22.0
+S2,Carpet(Excl. Silk) Handmade,15344,Russia,214.0
+S2,Carpet(Excl. Silk) Handmade,15352,Serbia,4.0
+S2,Carpet(Excl. Silk) Handmade,15356,Montenegro,0.0
+S2,Carpet(Excl. Silk) Handmade,15358,Slovak Rep,17.0
+S2,Carpet(Excl. Silk) Handmade,15360,Slovenia,54.0
+S2,Carpet(Excl. Silk) Handmade,15393,Tajikistan,0.0
+S2,Carpet(Excl. Silk) Handmade,15422,Ukraine,12.0
+S2,Carpet(Excl. Silk) Handmade,15430,Uzbekistan,0.0
+S2,Carpet(Excl. Silk) Handmade,16009,Andorra,2.0
+S2,Carpet(Excl. Silk) Handmade,16095,Cyprus,12.0
+S2,Carpet(Excl. Silk) Handmade,16151,Gibraltar,0.0
+S2,Carpet(Excl. Silk) Handmade,16251,Malta,1.0
+S2,Carpet(Excl. Silk) Handmade,16409,Turkey,1205.0
+S3,Silk Carpet,4265,Morocco,0.0
+S3,Silk Carpet,4365,South Africa,1.0
+S3,Silk Carpet,5059,Canada,1.0
+S3,Silk Carpet,5423,U S A,26.0
+S3,Silk Carpet,6015,Argentina,1.0
+S3,Silk Carpet,6317,Paraguay,0.0
+S3,Silk Carpet,6433,Venezuela,0.0
+S3,Silk Carpet,8091,Costa Rica,0.0
+S3,Silk Carpet,9259,Mexico,1.0
+S3,Silk Carpet,9277,Netherlandantil,0.0
+S3,Silk Carpet,10017,Australia,1.0
+S3,Silk Carpet,10077,China P Rp,0.0
+S3,Silk Carpet,10179,Hong Kong,21.0
+S3,Silk Carpet,10187,Indonesia,0.0
+S3,Silk Carpet,10205,Japan,0.0
+S3,Silk Carpet,10217,Korea Rp,0.0
+S3,Silk Carpet,10245,Malaysia,0.0
+S3,Silk Carpet,10285,New Zealand,0.0
+S3,Silk Carpet,10323,Philippines,0.0
+S3,Silk Carpet,10359,Singapore,1.0
+S3,Silk Carpet,10369,Sri Lanka Dsr,4.0
+S3,Silk Carpet,10437,Vietnam Soc Rep,0.0
+S3,Silk Carpet,11207,Jordan,0.0
+S3,Silk Carpet,11219,Kuwait,0.0
+S3,Silk Carpet,11225,Lebanon,0.0
+S3,Silk Carpet,11301,Oman,0.0
+S3,Silk Carpet,11335,Qatar,22.0
+S3,Silk Carpet,11351,Saudi Arab,0.0
+S3,Silk Carpet,11419,U Arab Emts,7.0
+S3,Silk Carpet,12195,Israel,0.0
+S3,Silk Carpet,13019,Austria,0.0
+S3,Silk Carpet,13033,Belgium,9.0
+S3,Silk Carpet,13101,Denmark,1.0
+S3,Silk Carpet,13125,Finland,0.0
+S3,Silk Carpet,13129,France,3.0
+S3,Silk Carpet,13147,Germany,9.0
+S3,Silk Carpet,13155,Greece,0.0
+S3,Silk Carpet,13197,Italy,0.0
+S3,Silk Carpet,13275,Netherland,1.0
+S3,Silk Carpet,13367,Spain,0.0
+S3,Silk Carpet,13387,Sweden,0.0
+S3,Silk Carpet,13421,U K,1.0
+S3,Silk Carpet,14389,Switzerland,0.0
+S3,Silk Carpet,15114,Estonia,1.0
+S3,Silk Carpet,15224,Latvia,0.0
+S3,Silk Carpet,15234,Lithuania,1.0
+S3,Silk Carpet,15344,Russia,0.0
+S3,Silk Carpet,16409,Turkey,2.0
+S4,Cotton Raw Incld. Waste,1213,Kenya,0.0
+S4,Cotton Raw Incld. Waste,1395,Tanzania Rep,0.0
+S4,Cotton Raw Incld. Waste,1417,Uganda,0.0
+S4,Cotton Raw Incld. Waste,2035,Benin,0.0
+S4,Cotton Raw Incld. Waste,2257,Mauritius,0.0
+S4,Cotton Raw Incld. Waste,2345,Rwanda,1.0
+S4,Cotton Raw Incld. Waste,2459,Congo D. Rep.,0.0
+S4,Cotton Raw Incld. Waste,3011,Angola,0.0
+S4,Cotton Raw Incld. Waste,3115,Ethiopia,462.0
+S4,Cotton Raw Incld. Waste,3149,Ghana,1.0
+S4,Cotton Raw Incld. Waste,3167,Guinea,0.0
+S4,Cotton Raw Incld. Waste,3229,Liberia,0.0
+S4,Cotton Raw Incld. Waste,3243,Malawi,0.0
+S4,Cotton Raw Incld. Waste,3249,Mali,0.0
+S4,Cotton Raw Incld. Waste,3267,Mozambique,13.0
+S4,Cotton Raw Incld. Waste,3269,Namibia,0.0
+S4,Cotton Raw Incld. Waste,3291,Nigeria,0.0
+S4,Cotton Raw Incld. Waste,3339,Reunion,0.0
+S4,Cotton Raw Incld. Waste,3355,Seychelles,0.0
+S4,Cotton Raw Incld. Waste,3461,Zambia,0.0
+S4,Cotton Raw Incld. Waste,4111,Egypt A Rp,0.0
+S4,Cotton Raw Incld. Waste,4265,Morocco,28.0
+S4,Cotton Raw Incld. Waste,4365,South Africa,13.0
+S4,Cotton Raw Incld. Waste,4381,Sudan,0.0
+S4,Cotton Raw Incld. Waste,4407,Tunisia,29.0
+S4,Cotton Raw Incld. Waste,5059,Canada,1.0
+S4,Cotton Raw Incld. Waste,5423,U S A,27.0
+S4,Cotton Raw Incld. Waste,6043,Brazil,0.0
+S4,Cotton Raw Incld. Waste,6319,Peru,0.0
+S4,Cotton Raw Incld. Waste,7405,Trinidad,0.0
+S4,Cotton Raw Incld. Waste,8113,El Salvador,1.0
+S4,Cotton Raw Incld. Waste,9093,Cuba,2.0
+S4,Cotton Raw Incld. Waste,9259,Mexico,16.0
+S4,Cotton Raw Incld. Waste,10001,Afghanistan,0.0
+S4,Cotton Raw Incld. Waste,10017,Australia,1.0
+S4,Cotton Raw Incld. Waste,10027,Bangladesh Pr,25663.0
+S4,Cotton Raw Incld. Waste,10077,China P Rp,33028.0
+S4,Cotton Raw Incld. Waste,10127,Fiji Is,0.0
+S4,Cotton Raw Incld. Waste,10179,Hong Kong,134.0
+S4,Cotton Raw Incld. Waste,10187,Indonesia,1819.0
+S4,Cotton Raw Incld. Waste,10189,Iran,118.0
+S4,Cotton Raw Incld. Waste,10205,Japan,187.0
+S4,Cotton Raw Incld. Waste,10217,Korea Rp,588.0
+S4,Cotton Raw Incld. Waste,10245,Malaysia,461.0
+S4,Cotton Raw Incld. Waste,10258,Myanmar,70.0
+S4,Cotton Raw Incld. Waste,10273,Nepal,45.0
+S4,Cotton Raw Incld. Waste,10285,New Zealand,0.0
+S4,Cotton Raw Incld. Waste,10309,Pakistan Ir,4667.0
+S4,Cotton Raw Incld. Waste,10315,Papua N Gna,0.0
+S4,Cotton Raw Incld. Waste,10323,Philippines,17.0
+S4,Cotton Raw Incld. Waste,10359,Singapore,0.0
+S4,Cotton Raw Incld. Waste,10369,Sri Lanka Dsr,1.0
+S4,Cotton Raw Incld. Waste,10397,Thailand,1243.0
+S4,Cotton Raw Incld. Waste,10437,Vietnam Soc Rep,10751.0
+S4,Cotton Raw Incld. Waste,11025,Baharain Is,114.0
+S4,Cotton Raw Incld. Waste,11207,Jordan,0.0
+S4,Cotton Raw Incld. Waste,11219,Kuwait,0.0
+S4,Cotton Raw Incld. Waste,11301,Oman,0.0
+S4,Cotton Raw Incld. Waste,11335,Qatar,0.0
+S4,Cotton Raw Incld. Waste,11351,Saudi Arab,0.0
+S4,Cotton Raw Incld. Waste,11419,U Arab Emts,1.0
+S4,Cotton Raw Incld. Waste,12075,Taiwan,1916.0
+S4,Cotton Raw Incld. Waste,12215,Korea Dp Rp,28.0
+S4,Cotton Raw Incld. Waste,12247,Maldives,0.0
+S4,Cotton Raw Incld. Waste,13033,Belgium,410.0
+S4,Cotton Raw Incld. Waste,13129,France,29.0
+S4,Cotton Raw Incld. Waste,13147,Germany,285.0
+S4,Cotton Raw Incld. Waste,13197,Italy,499.0
+S4,Cotton Raw Incld. Waste,13275,Netherland,71.0
+S4,Cotton Raw Incld. Waste,13327,Portugal,59.0
+S4,Cotton Raw Incld. Waste,13367,Spain,0.0
+S4,Cotton Raw Incld. Waste,13387,Sweden,20.0
+S4,Cotton Raw Incld. Waste,13421,U K,0.0
+S4,Cotton Raw Incld. Waste,14297,Norway,0.0
+S4,Cotton Raw Incld. Waste,15003,Albania,0.0
+S4,Cotton Raw Incld. Waste,15212,Kazakhstan,0.0
+S4,Cotton Raw Incld. Waste,15325,Poland,32.0
+S4,Cotton Raw Incld. Waste,15344,Russia,65.0
+S4,Cotton Raw Incld. Waste,15360,Slovenia,2.0
+S4,Cotton Raw Incld. Waste,16409,Turkey,1513.0
